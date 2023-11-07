@@ -1,0 +1,980 @@
+﻿Level,Date and Time,Source,Event ID,Task Category
+Information,3/27/2023 8:01:56 AM,Microsoft-Windows-Eventlog,104,Log clear,The Microsoft-Windows-Windows Firewall With Advanced Security/Firewall log file was cleared.
+Warning,3/27/2023 7:58:56 AM,Microsoft-Windows-DNS-Client,1014,(1014),Name resolution for the name wpad timed out after none of the configured DNS servers responded.
+Information,3/27/2023 7:57:42 AM,Microsoft-Windows-GroupPolicy,1502,None,The Group Policy settings for the computer were processed successfully. New settings from 1 Group Policy objects were detected and applied.
+Information,3/27/2023 7:57:34 AM,Microsoft-Windows-GroupPolicy,1502,None,The Group Policy settings for the computer were processed successfully. New settings from 1 Group Policy objects were detected and applied.
+Information,3/27/2023 7:56:44 AM,Microsoft-Windows-GroupPolicy,1502,None,The Group Policy settings for the computer were processed successfully. New settings from 1 Group Policy objects were detected and applied.
+Information,3/27/2023 7:50:03 AM,Microsoft-Windows-GroupPolicy,1500,None,The Group Policy settings for the computer were processed successfully. There were no changes detected since the last successful processing of Group Policy.
+Warning,3/27/2023 7:42:34 AM,Microsoft-Windows-DistributedCOM,10016,None,"The machine-default permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{C2F03A33-21F5-47FA-B4BB-156362A2F239}
+ and APPID 
+{316CDED5-E4AE-4B15-9113-7055D84DCC97}
+ to the user DESKTOP-887GK2L\CyberJunkie SID (S-1-5-21-3393683511-3463148672-371912004-1001) from address LocalHost (Using LRPC) running in the application container Microsoft.Windows.ShellExperienceHost_10.0.19041.1949_neutral_neutral_cw5n1h2txyewy SID (S-1-15-2-155514346-2573954481-755741238-1654018636-1233331829-3075935687-2861478708). This security permission can be modified using the Component Services administrative tool."
+Information,3/27/2023 7:41:35 AM,Service Control Manager,7040,None,The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start.
+Warning,3/27/2023 7:39:11 AM,Microsoft-Windows-DistributedCOM,10016,None,"The application-specific permission settings do not grant Local Launch permission for the COM Server application with CLSID 
+Windows.SecurityCenter.SecurityAppBroker
+ and APPID 
+Unavailable
+ to the user NT AUTHORITY\SYSTEM SID (S-1-5-18) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Warning,3/27/2023 7:39:11 AM,Microsoft-Windows-DistributedCOM,10016,None,"The application-specific permission settings do not grant Local Launch permission for the COM Server application with CLSID 
+Windows.SecurityCenter.WscDataProtection
+ and APPID 
+Unavailable
+ to the user NT AUTHORITY\SYSTEM SID (S-1-5-18) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Warning,3/27/2023 7:39:11 AM,Microsoft-Windows-DistributedCOM,10016,None,"The application-specific permission settings do not grant Local Launch permission for the COM Server application with CLSID 
+Windows.SecurityCenter.WscBrokerManager
+ and APPID 
+Unavailable
+ to the user NT AUTHORITY\SYSTEM SID (S-1-5-18) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Information,3/27/2023 7:37:17 AM,Service Control Manager,7045,None,"A service was installed in the system.
+
+Service Name:  MpKsl9f162b76
+Service File Name:  C:\ProgramData\Microsoft\Windows Defender\Definition Updates\{DBE27B70-E32D-40D3-9CC5-3FD7E408D751}\MpKslDrv.sys
+Service Type:  kernel mode driver
+Service Start Type:  demand start
+Service Account:  "
+Warning,3/27/2023 7:37:16 AM,Microsoft-Windows-DNS-Client,1014,(1014),Name resolution for the name wpad timed out after none of the configured DNS servers responded.
+Information,3/27/2023 7:37:10 AM,Service Control Manager,7026,None,"The following boot-start or system-start driver(s) did not load: 
+dam"
+Information,3/27/2023 7:37:09 AM,Microsoft-Windows-Winlogon,7001,(1101),User Logon Notification for Customer Experience Improvement Program
+Information,3/27/2023 7:37:09 AM,Microsoft-Windows-DHCPv6-Client,51046,Service State Event,DHCPv6 client service is started
+Information,3/27/2023 7:37:09 AM,Microsoft-Windows-Dhcp-Client,50103,Service State Event,DHCPv4 client registered for shutdown notification
+Information,3/27/2023 7:37:09 AM,Microsoft-Windows-Dhcp-Client,50036,Service State Event,DHCPv4 client service is started
+Information,3/27/2023 7:37:09 AM,Microsoft-Windows-FilterManager,6,None,"File System Filter 'bindflt' (10.0, ‎2005‎-‎08‎-‎08T13:17:00.000000000Z) has successfully loaded and registered with Filter Manager."
+Information,3/27/2023 7:37:09 AM,Microsoft-Windows-FilterManager,6,None,"File System Filter 'storqosflt' (10.0, ‎2007‎-‎04‎-‎09T11:08:30.000000000Z) has successfully loaded and registered with Filter Manager."
+Information,3/27/2023 7:37:09 AM,Microsoft-Windows-FilterManager,6,None,"File System Filter 'CldFlt' (10.0, ‎2072‎-‎04‎-‎19T10:54:12.000000000Z) has successfully loaded and registered with Filter Manager."
+Information,3/27/2023 7:37:09 AM,Microsoft-Windows-FilterManager,1,None,"File System Filter 'CldFlt' (Version 10.0, ‎2072‎-‎04‎-‎19T10:54:12.000000000Z) unloaded successfully."
+Information,3/27/2023 7:37:09 AM,Microsoft-Windows-FilterManager,6,None,"File System Filter 'CldFlt' (10.0, ‎2072‎-‎04‎-‎19T10:54:12.000000000Z) has successfully loaded and registered with Filter Manager."
+Information,3/27/2023 7:37:09 AM,Microsoft-Windows-FilterManager,6,None,"File System Filter 'luafv' (10.0, ‎1986‎-‎08‎-‎13T13:58:59.000000000Z) has successfully loaded and registered with Filter Manager."
+Information,3/27/2023 7:37:09 AM,Microsoft-Windows-FilterManager,6,None,"File System Filter 'wcifs' (10.0, ‎2084‎-‎01‎-‎02T01:25:46.000000000Z) has successfully loaded and registered with Filter Manager."
+Information,3/27/2023 7:37:08 AM,Microsoft-Windows-Directory-Services-SAM,16983,None,"The security account manager is now logging periodic summary events for remote clients that call legacy password change or set RPC methods.
+
+For more information please see https://go.microsoft.com/fwlink/?linkid=2150956.
+"
+Information,3/27/2023 7:37:08 AM,Microsoft-Windows-Directory-Services-SAM,16977,None,"The domain is configured with the following minimum password length-related settings.
+
+MinimumPasswordLength: 0
+
+RelaxMinimumPasswordLengthLimits: 0
+
+MinimumPasswordLengthAudit: -1
+
+For more information see https://go.microsoft.com/fwlink/?LinkId=2097191.
+"
+Information,3/27/2023 7:37:08 AM,Microsoft-Windows-Directory-Services-SAM,16962,None,"Remote calls to the SAM database are being restricted using the default security descriptor: O:SYG:SYD:(A;;RC;;;BA).
+For more information please see http://go.microsoft.com/fwlink/?LinkId=787651."
+Information,3/27/2023 7:37:08 AM,Microsoft-Windows-Wininit,14,None,"Credential Guard configuration: 0x0, 0"
+Information,3/27/2023 7:37:08 AM,Microsoft-Windows-Kernel-General,24,(11),The time zone information was refreshed with exit reason 0. Current time zone bias is 420.
+Information,3/27/2023 7:37:07 AM,Microsoft-Windows-Ntfs,98,None,Volume \\?\Volume{3e1ae928-61ee-4947-af5a-9cabbd50feef} (\Device\HarddiskVolume4) is healthy.  No action is needed.
+Information,3/27/2023 7:37:07 AM,e1i65x64,32,None,"The description for Event ID 32 from source e1i65x64 cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+Intel(R) 82574L Gigabit Network Connection
+
+The message resource is present but the message was not found in the message table
+"
+Information,3/27/2023 7:37:07 AM,Microsoft-Windows-Kernel-Processor-Power,55,(47),"Processor 7 in group 0 exposes the following power management capabilities:
+
+Idle state type: ACPI Idle (C) States (1 state(s))
+
+Performance state type: None
+Nominal Frequency (MHz): 3693
+Maximum performance percentage: 100
+Minimum performance percentage: 100
+Minimum throttle percentage: 100"
+Information,3/27/2023 7:37:07 AM,Microsoft-Windows-Kernel-Processor-Power,55,(47),"Processor 6 in group 0 exposes the following power management capabilities:
+
+Idle state type: ACPI Idle (C) States (1 state(s))
+
+Performance state type: None
+Nominal Frequency (MHz): 3693
+Maximum performance percentage: 100
+Minimum performance percentage: 100
+Minimum throttle percentage: 100"
+Information,3/27/2023 7:37:07 AM,Microsoft-Windows-Kernel-Processor-Power,55,(47),"Processor 5 in group 0 exposes the following power management capabilities:
+
+Idle state type: ACPI Idle (C) States (1 state(s))
+
+Performance state type: None
+Nominal Frequency (MHz): 3693
+Maximum performance percentage: 100
+Minimum performance percentage: 100
+Minimum throttle percentage: 100"
+Information,3/27/2023 7:37:07 AM,Microsoft-Windows-Kernel-Processor-Power,55,(47),"Processor 4 in group 0 exposes the following power management capabilities:
+
+Idle state type: ACPI Idle (C) States (1 state(s))
+
+Performance state type: None
+Nominal Frequency (MHz): 3693
+Maximum performance percentage: 100
+Minimum performance percentage: 100
+Minimum throttle percentage: 100"
+Information,3/27/2023 7:37:07 AM,Microsoft-Windows-Kernel-Processor-Power,55,(47),"Processor 3 in group 0 exposes the following power management capabilities:
+
+Idle state type: ACPI Idle (C) States (1 state(s))
+
+Performance state type: None
+Nominal Frequency (MHz): 3693
+Maximum performance percentage: 100
+Minimum performance percentage: 100
+Minimum throttle percentage: 100"
+Information,3/27/2023 7:37:07 AM,Microsoft-Windows-Kernel-Processor-Power,55,(47),"Processor 2 in group 0 exposes the following power management capabilities:
+
+Idle state type: ACPI Idle (C) States (1 state(s))
+
+Performance state type: None
+Nominal Frequency (MHz): 3693
+Maximum performance percentage: 100
+Minimum performance percentage: 100
+Minimum throttle percentage: 100"
+Information,3/27/2023 7:37:07 AM,Microsoft-Windows-Kernel-Processor-Power,55,(47),"Processor 1 in group 0 exposes the following power management capabilities:
+
+Idle state type: ACPI Idle (C) States (1 state(s))
+
+Performance state type: None
+Nominal Frequency (MHz): 3693
+Maximum performance percentage: 100
+Minimum performance percentage: 100
+Minimum throttle percentage: 100"
+Information,3/27/2023 7:37:07 AM,Microsoft-Windows-Kernel-Processor-Power,55,(47),"Processor 0 in group 0 exposes the following power management capabilities:
+
+Idle state type: ACPI Idle (C) States (1 state(s))
+
+Performance state type: None
+Nominal Frequency (MHz): 3693
+Maximum performance percentage: 100
+Minimum performance percentage: 100
+Minimum throttle percentage: 100"
+Information,3/27/2023 7:37:07 AM,Microsoft-Windows-Kernel-Power,172,(203),"Connectivity state in standby: Disconnected, Reason: NIC compliance"
+Information,3/27/2023 7:37:07 AM,Microsoft-Windows-FilterManager,6,None,"File System Filter 'npsvctrig' (10.0, ‎2025‎-‎01‎-‎05T19:41:12.000000000Z) has successfully loaded and registered with Filter Manager."
+Information,3/27/2023 7:37:06 AM,Microsoft-Windows-FilterManager,6,None,"File System Filter 'FileCrypt' (10.0, ‎2002‎-‎03‎-‎01T04:12:42.000000000Z) has successfully loaded and registered with Filter Manager."
+Information,3/27/2023 7:37:06 AM,Microsoft-Windows-Ntfs,98,None,Volume C: (\Device\HarddiskVolume3) is healthy.  No action is needed.
+Information,3/27/2023 7:37:06 AM,Microsoft-Windows-FilterManager,6,None,"File System Filter 'SysmonDrv' (0.0, ‎2023‎-‎01‎-‎20T10:59:19.000000000Z) has successfully loaded and registered with Filter Manager."
+Information,3/27/2023 7:37:06 AM,Microsoft-Windows-FilterManager,6,None,"File System Filter 'WdFilter' (10.0, ‎2012‎-‎02‎-‎25T07:53:43.000000000Z) has successfully loaded and registered with Filter Manager."
+Information,3/27/2023 7:37:06 AM,Microsoft-Windows-FilterManager,6,None,"File System Filter 'Wof' (10.0, ‎2023‎-‎04‎-‎22T19:17:53.000000000Z) has successfully loaded and registered with Filter Manager."
+Information,3/27/2023 7:37:06 AM,Microsoft-Windows-FilterManager,6,None,"File System Filter 'FileInfo' (10.0, ‎2062‎-‎12‎-‎22T22:21:06.000000000Z) has successfully loaded and registered with Filter Manager."
+Information,3/27/2023 7:37:04 AM,vmci,3,None,"The description for Event ID 3 from source vmci cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+VMCI: Using capabilities (0x1c).
+
+
+The message resource is present but the message was not found in the message table
+"
+Information,3/27/2023 7:37:02 AM,Microsoft-Windows-HAL,16,None,The iommu fault reporting has been initialized.
+Information,3/27/2023 7:37:02 AM,Microsoft-Windows-Kernel-General,20,(6),"The leap second configuration has been updated.
+Reason: Leap second data initialized from registry during boot
+Leap seconds enabled: true
+New leap second count: 0
+Old leap second count: 0"
+Information,3/27/2023 7:37:02 AM,Microsoft-Windows-Kernel-Boot,32,(58),The bootmgr spent 0 ms waiting for user input.
+Information,3/27/2023 7:37:02 AM,Microsoft-Windows-Kernel-Boot,18,(57),There are 0x1 boot options on this system.
+Information,3/27/2023 7:37:02 AM,Microsoft-Windows-Kernel-Boot,27,(33),The boot type was 0x0.
+Information,3/27/2023 7:37:02 AM,Microsoft-Windows-Kernel-Boot,25,(32),The boot menu policy was 0x1.
+Information,3/27/2023 7:37:02 AM,Microsoft-Windows-Kernel-Boot,238,(101),EFI time zone bias: 2047. Daylight flags: 0.
+Information,3/27/2023 7:37:02 AM,Microsoft-Windows-Kernel-Boot,20,(31),The last shutdown's success status was true. The last boot's success status was true.
+Information,3/27/2023 7:37:02 AM,Microsoft-Windows-Kernel-Boot,153,(62),Virtualization-based security (policies: 0) is disabled.
+Information,3/27/2023 7:37:02 AM,Microsoft-Windows-Kernel-General,12,(1),The operating system started at system time ‎2023‎-‎03‎-‎27T14:37:01.500000000Z.
+Information,3/27/2023 7:36:54 AM,Microsoft-Windows-Kernel-General,13,(2),The operating system is shutting down at system time ‎2023‎-‎03‎-‎27T14:36:54.515640000Z.
+Information,3/27/2023 7:36:53 AM,Microsoft-Windows-Kernel-Power,109,(103),"The kernel power manager has initiated a shutdown transition.
+
+Shutdown Reason: Kernel API"
+Information,3/27/2023 7:37:09 AM,EventLog,6013,None,The system uptime is 7 seconds.
+Information,3/27/2023 7:37:09 AM,EventLog,6005,None,The Event log service was started.
+Information,3/27/2023 7:37:09 AM,EventLog,6009,None,Microsoft (R) Windows (R) 10.00. 19044  Multiprocessor Free.
+Information,3/27/2023 7:36:52 AM,Microsoft-Windows-Dhcp-Client,50037,Service State Event,DHCPv4 client service is stopped. ShutDown Flag value is 1
+Information,3/27/2023 7:36:52 AM,Microsoft-Windows-Dhcp-Client,50106,Service State Event,DHCPv4 is waiting on DHCPv6 service to stop
+Information,3/27/2023 7:36:52 AM,Microsoft-Windows-DHCPv6-Client,51057,Service State Event,DHCPv6 client service stop is almost done.DHCP Context Ref count is 1
+Information,3/27/2023 7:36:52 AM,Microsoft-Windows-DHCPv6-Client,51047,Service State Event,DHCPv6 client service is stopped. ShutDown Flag value is 1
+Information,3/27/2023 7:36:52 AM,Microsoft-Windows-Dhcp-Client,50105,Service State Event,DHCPv4 client ProcessDHCPRequestForever received TERMINATE_EVENT
+Information,3/27/2023 7:36:52 AM,Microsoft-Windows-Dhcp-Client,50104,Service State Event,DHCPv4 client received shutdown notification
+Information,3/27/2023 7:36:52 AM,Microsoft-Windows-Kernel-General,1,(5),"The system time has changed to ‎2023‎-‎03‎-‎27T14:36:52.496400600Z from ‎2023‎-‎03‎-‎27T14:36:52.494904300Z.
+
+Change Reason: An application or system component changed the time.
+Process: '\Device\HarddiskVolume3\Windows\System32\svchost.exe' (PID 5260)."
+Information,3/27/2023 7:36:52 AM,Microsoft-Windows-Kernel-General,24,(11),The time zone information was refreshed with exit reason 0. Current time zone bias is 420.
+Information,3/27/2023 7:36:52 AM,EventLog,6006,None,The Event log service was stopped.
+Information,3/27/2023 7:36:51 AM,Microsoft-Windows-Winlogon,7002,(1102),User Logoff Notification for Customer Experience Improvement Program
+Information,3/27/2023 7:36:49 AM,User32,1074,None,"The process C:\Windows\System32\RuntimeBroker.exe (DESKTOP-887GK2L) has initiated the restart of computer DESKTOP-887GK2L on behalf of user DESKTOP-887GK2L\CyberJunkie for the following reason: Other (Unplanned)
+ Reason Code: 0x0
+ Shutdown Type: restart
+ Comment: "
+Information,3/27/2023 7:35:57 AM,Microsoft-Windows-WindowsUpdateClient,19,Windows Update Agent,Installation Successful: Windows successfully installed the following update: Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.385.1261.0)
+Information,3/27/2023 7:35:55 AM,Microsoft-Windows-GroupPolicy,1500,None,The Group Policy settings for the computer were processed successfully. There were no changes detected since the last successful processing of Group Policy.
+Information,3/27/2023 7:35:52 AM,Microsoft-Windows-GroupPolicy,1500,None,The Group Policy settings for the computer were processed successfully. There were no changes detected since the last successful processing of Group Policy.
+Information,3/27/2023 7:35:52 AM,Microsoft-Windows-WindowsUpdateClient,43,Windows Update Agent,Installation Started: Windows has started installing the following update: Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.385.1261.0)
+Information,3/27/2023 7:35:52 AM,Microsoft-Windows-WindowsUpdateClient,44,Windows Update Agent,Windows Update started downloading an update.
+Information,3/27/2023 7:34:18 AM,Microsoft-Windows-Time-Service,35,None,"The time service is now synchronizing the system time with the time source time.windows.com,0x9 (ntp.m|0x9|0.0.0.0:123->40.119.148.38:123) with reference id 647264040. Current local stratum number is 4."
+Information,3/27/2023 7:34:04 AM,Microsoft-Windows-Time-Service,37,None,"The time provider NtpClient is currently receiving valid time data from time.windows.com,0x9 (ntp.m|0x9|0.0.0.0:123->40.119.148.38:123)."
+Warning,3/27/2023 7:34:02 AM,Microsoft-Windows-DistributedCOM,10016,None,"The application-specific permission settings do not grant Local Launch permission for the COM Server application with CLSID 
+Windows.SecurityCenter.WscBrokerManager
+ and APPID 
+Unavailable
+ to the user NT AUTHORITY\SYSTEM SID (S-1-5-18) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Warning,3/27/2023 7:34:02 AM,Microsoft-Windows-DistributedCOM,10016,None,"The application-specific permission settings do not grant Local Launch permission for the COM Server application with CLSID 
+Windows.SecurityCenter.SecurityAppBroker
+ and APPID 
+Unavailable
+ to the user NT AUTHORITY\SYSTEM SID (S-1-5-18) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Warning,3/27/2023 7:32:10 AM,Microsoft-Windows-DNS-Client,1014,(1014),Name resolution for the name wpad timed out after none of the configured DNS servers responded.
+Information,3/27/2023 7:32:01 AM,Service Control Manager,7026,None,"The following boot-start or system-start driver(s) did not load: 
+dam"
+Information,3/27/2023 7:32:01 AM,Microsoft-Windows-Winlogon,7001,(1101),User Logon Notification for Customer Experience Improvement Program
+Information,3/27/2023 7:32:01 AM,Microsoft-Windows-DHCPv6-Client,51046,Service State Event,DHCPv6 client service is started
+Information,3/27/2023 7:32:01 AM,Microsoft-Windows-Dhcp-Client,50103,Service State Event,DHCPv4 client registered for shutdown notification
+Information,3/27/2023 7:32:01 AM,Microsoft-Windows-Dhcp-Client,50036,Service State Event,DHCPv4 client service is started
+Information,3/27/2023 7:32:00 AM,Microsoft-Windows-FilterManager,6,None,"File System Filter 'bindflt' (10.0, ‎2005‎-‎08‎-‎08T13:17:00.000000000Z) has successfully loaded and registered with Filter Manager."
+Information,3/27/2023 7:32:00 AM,Microsoft-Windows-FilterManager,6,None,"File System Filter 'storqosflt' (10.0, ‎2007‎-‎04‎-‎09T11:08:30.000000000Z) has successfully loaded and registered with Filter Manager."
+Information,3/27/2023 7:32:00 AM,Microsoft-Windows-FilterManager,6,None,"File System Filter 'CldFlt' (10.0, ‎2072‎-‎04‎-‎19T10:54:12.000000000Z) has successfully loaded and registered with Filter Manager."
+Information,3/27/2023 7:32:00 AM,Microsoft-Windows-FilterManager,1,None,"File System Filter 'CldFlt' (Version 10.0, ‎2072‎-‎04‎-‎19T10:54:12.000000000Z) unloaded successfully."
+Information,3/27/2023 7:32:00 AM,Microsoft-Windows-FilterManager,6,None,"File System Filter 'CldFlt' (10.0, ‎2072‎-‎04‎-‎19T10:54:12.000000000Z) has successfully loaded and registered with Filter Manager."
+Information,3/27/2023 7:32:00 AM,Microsoft-Windows-FilterManager,6,None,"File System Filter 'luafv' (10.0, ‎1986‎-‎08‎-‎13T13:58:59.000000000Z) has successfully loaded and registered with Filter Manager."
+Information,3/27/2023 7:32:00 AM,Microsoft-Windows-FilterManager,6,None,"File System Filter 'wcifs' (10.0, ‎2084‎-‎01‎-‎02T01:25:46.000000000Z) has successfully loaded and registered with Filter Manager."
+Information,3/27/2023 7:32:00 AM,Microsoft-Windows-Directory-Services-SAM,16983,None,"The security account manager is now logging periodic summary events for remote clients that call legacy password change or set RPC methods.
+
+For more information please see https://go.microsoft.com/fwlink/?linkid=2150956.
+"
+Information,3/27/2023 7:32:00 AM,Microsoft-Windows-Directory-Services-SAM,16977,None,"The domain is configured with the following minimum password length-related settings.
+
+MinimumPasswordLength: 0
+
+RelaxMinimumPasswordLengthLimits: 0
+
+MinimumPasswordLengthAudit: -1
+
+For more information see https://go.microsoft.com/fwlink/?LinkId=2097191.
+"
+Information,3/27/2023 7:32:00 AM,Microsoft-Windows-Directory-Services-SAM,16962,None,"Remote calls to the SAM database are being restricted using the default security descriptor: O:SYG:SYD:(A;;RC;;;BA).
+For more information please see http://go.microsoft.com/fwlink/?LinkId=787651."
+Information,3/27/2023 7:31:59 AM,Microsoft-Windows-Wininit,14,None,"Credential Guard configuration: 0x0, 0"
+Information,3/27/2023 7:31:59 AM,Microsoft-Windows-Kernel-General,24,(11),The time zone information was refreshed with exit reason 0. Current time zone bias is 420.
+Information,3/27/2023 7:31:59 AM,Microsoft-Windows-Ntfs,98,None,Volume \\?\Volume{3e1ae928-61ee-4947-af5a-9cabbd50feef} (\Device\HarddiskVolume4) is healthy.  No action is needed.
+Information,3/27/2023 7:31:58 AM,e1i65x64,32,None,"The description for Event ID 32 from source e1i65x64 cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+Intel(R) 82574L Gigabit Network Connection
+
+The message resource is present but the message was not found in the message table
+"
+Information,3/27/2023 7:31:57 AM,Microsoft-Windows-Kernel-Processor-Power,55,(47),"Processor 7 in group 0 exposes the following power management capabilities:
+
+Idle state type: ACPI Idle (C) States (1 state(s))
+
+Performance state type: None
+Nominal Frequency (MHz): 3693
+Maximum performance percentage: 100
+Minimum performance percentage: 100
+Minimum throttle percentage: 100"
+Information,3/27/2023 7:31:57 AM,Microsoft-Windows-Kernel-Processor-Power,55,(47),"Processor 6 in group 0 exposes the following power management capabilities:
+
+Idle state type: ACPI Idle (C) States (1 state(s))
+
+Performance state type: None
+Nominal Frequency (MHz): 3693
+Maximum performance percentage: 100
+Minimum performance percentage: 100
+Minimum throttle percentage: 100"
+Information,3/27/2023 7:31:57 AM,Microsoft-Windows-Kernel-Processor-Power,55,(47),"Processor 5 in group 0 exposes the following power management capabilities:
+
+Idle state type: ACPI Idle (C) States (1 state(s))
+
+Performance state type: None
+Nominal Frequency (MHz): 3693
+Maximum performance percentage: 100
+Minimum performance percentage: 100
+Minimum throttle percentage: 100"
+Information,3/27/2023 7:31:57 AM,Microsoft-Windows-Kernel-Processor-Power,55,(47),"Processor 4 in group 0 exposes the following power management capabilities:
+
+Idle state type: ACPI Idle (C) States (1 state(s))
+
+Performance state type: None
+Nominal Frequency (MHz): 3693
+Maximum performance percentage: 100
+Minimum performance percentage: 100
+Minimum throttle percentage: 100"
+Information,3/27/2023 7:31:57 AM,Microsoft-Windows-Kernel-Processor-Power,55,(47),"Processor 3 in group 0 exposes the following power management capabilities:
+
+Idle state type: ACPI Idle (C) States (1 state(s))
+
+Performance state type: None
+Nominal Frequency (MHz): 3693
+Maximum performance percentage: 100
+Minimum performance percentage: 100
+Minimum throttle percentage: 100"
+Information,3/27/2023 7:31:57 AM,Microsoft-Windows-Kernel-Processor-Power,55,(47),"Processor 2 in group 0 exposes the following power management capabilities:
+
+Idle state type: ACPI Idle (C) States (1 state(s))
+
+Performance state type: None
+Nominal Frequency (MHz): 3693
+Maximum performance percentage: 100
+Minimum performance percentage: 100
+Minimum throttle percentage: 100"
+Information,3/27/2023 7:31:57 AM,Microsoft-Windows-Kernel-Processor-Power,55,(47),"Processor 1 in group 0 exposes the following power management capabilities:
+
+Idle state type: ACPI Idle (C) States (1 state(s))
+
+Performance state type: None
+Nominal Frequency (MHz): 3693
+Maximum performance percentage: 100
+Minimum performance percentage: 100
+Minimum throttle percentage: 100"
+Information,3/27/2023 7:31:57 AM,Microsoft-Windows-Kernel-Processor-Power,55,(47),"Processor 0 in group 0 exposes the following power management capabilities:
+
+Idle state type: ACPI Idle (C) States (1 state(s))
+
+Performance state type: None
+Nominal Frequency (MHz): 3693
+Maximum performance percentage: 100
+Minimum performance percentage: 100
+Minimum throttle percentage: 100"
+Information,3/27/2023 7:31:57 AM,Microsoft-Windows-Kernel-Power,172,(203),"Connectivity state in standby: Disconnected, Reason: NIC compliance"
+Information,3/27/2023 7:31:57 AM,Microsoft-Windows-FilterManager,6,None,"File System Filter 'npsvctrig' (10.0, ‎2025‎-‎01‎-‎05T19:41:12.000000000Z) has successfully loaded and registered with Filter Manager."
+Information,3/27/2023 7:31:57 AM,Microsoft-Windows-FilterManager,6,None,"File System Filter 'FileCrypt' (10.0, ‎2002‎-‎03‎-‎01T04:12:42.000000000Z) has successfully loaded and registered with Filter Manager."
+Information,3/27/2023 7:31:56 AM,Microsoft-Windows-Ntfs,98,None,Volume C: (\Device\HarddiskVolume3) is healthy.  No action is needed.
+Information,3/27/2023 7:31:56 AM,Microsoft-Windows-FilterManager,6,None,"File System Filter 'SysmonDrv' (0.0, ‎2023‎-‎01‎-‎20T10:59:19.000000000Z) has successfully loaded and registered with Filter Manager."
+Information,3/27/2023 7:31:56 AM,Microsoft-Windows-FilterManager,6,None,"File System Filter 'WdFilter' (10.0, ‎2012‎-‎02‎-‎25T07:53:43.000000000Z) has successfully loaded and registered with Filter Manager."
+Information,3/27/2023 7:31:56 AM,Microsoft-Windows-FilterManager,6,None,"File System Filter 'Wof' (10.0, ‎2023‎-‎04‎-‎22T19:17:53.000000000Z) has successfully loaded and registered with Filter Manager."
+Information,3/27/2023 7:31:56 AM,Microsoft-Windows-FilterManager,6,None,"File System Filter 'FileInfo' (10.0, ‎2062‎-‎12‎-‎22T22:21:06.000000000Z) has successfully loaded and registered with Filter Manager."
+Information,3/27/2023 7:31:54 AM,vmci,3,None,"The description for Event ID 3 from source vmci cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+VMCI: Using capabilities (0x1c).
+
+
+The message resource is present but the message was not found in the message table
+"
+Information,3/27/2023 7:31:52 AM,Microsoft-Windows-HAL,16,None,The iommu fault reporting has been initialized.
+Information,3/27/2023 7:31:52 AM,Microsoft-Windows-Kernel-General,20,(6),"The leap second configuration has been updated.
+Reason: Leap second data initialized from registry during boot
+Leap seconds enabled: true
+New leap second count: 0
+Old leap second count: 0"
+Information,3/27/2023 7:31:52 AM,Microsoft-Windows-Kernel-Boot,32,(58),The bootmgr spent 0 ms waiting for user input.
+Information,3/27/2023 7:31:52 AM,Microsoft-Windows-Kernel-Boot,18,(57),There are 0x1 boot options on this system.
+Information,3/27/2023 7:31:52 AM,Microsoft-Windows-Kernel-Boot,27,(33),The boot type was 0x0.
+Information,3/27/2023 7:31:52 AM,Microsoft-Windows-Kernel-Boot,25,(32),The boot menu policy was 0x1.
+Information,3/27/2023 7:31:52 AM,Microsoft-Windows-Kernel-Boot,238,(101),EFI time zone bias: 2047. Daylight flags: 0.
+Information,3/27/2023 7:31:52 AM,Microsoft-Windows-Kernel-Boot,20,(31),The last shutdown's success status was true. The last boot's success status was true.
+Information,3/27/2023 7:31:52 AM,Microsoft-Windows-Kernel-Boot,153,(62),Virtualization-based security (policies: 0) is disabled.
+Information,3/27/2023 7:31:52 AM,Microsoft-Windows-Kernel-General,12,(1),The operating system started at system time ‎2023‎-‎03‎-‎27T14:31:51.500000000Z.
+Information,3/26/2023 5:00:13 PM,Microsoft-Windows-Kernel-General,13,(2),The operating system is shutting down at system time ‎2023‎-‎03‎-‎27T00:00:13.442070700Z.
+Information,3/26/2023 5:00:12 PM,Microsoft-Windows-Kernel-Power,109,(103),"The kernel power manager has initiated a shutdown transition.
+
+Shutdown Reason: Kernel API"
+Information,3/26/2023 5:00:11 PM,Microsoft-Windows-Dhcp-Client,50037,Service State Event,DHCPv4 client service is stopped. ShutDown Flag value is 1
+Information,3/27/2023 7:32:00 AM,EventLog,6013,None,The system uptime is 9 seconds.
+Information,3/27/2023 7:32:00 AM,EventLog,6005,None,The Event log service was started.
+Information,3/27/2023 7:32:00 AM,EventLog,6009,None,Microsoft (R) Windows (R) 10.00. 19044  Multiprocessor Free.
+Information,3/26/2023 5:00:11 PM,Microsoft-Windows-DHCPv6-Client,51057,Service State Event,DHCPv6 client service stop is almost done.DHCP Context Ref count is 1
+Information,3/26/2023 5:00:10 PM,Microsoft-Windows-Dhcp-Client,50106,Service State Event,DHCPv4 is waiting on DHCPv6 service to stop
+Information,3/26/2023 5:00:10 PM,Microsoft-Windows-DHCPv6-Client,51047,Service State Event,DHCPv6 client service is stopped. ShutDown Flag value is 1
+Information,3/26/2023 5:00:10 PM,Microsoft-Windows-Dhcp-Client,50105,Service State Event,DHCPv4 client ProcessDHCPRequestForever received TERMINATE_EVENT
+Information,3/26/2023 5:00:10 PM,Microsoft-Windows-Dhcp-Client,50104,Service State Event,DHCPv4 client received shutdown notification
+Information,3/26/2023 5:00:10 PM,Microsoft-Windows-Winlogon,7002,(1102),User Logoff Notification for Customer Experience Improvement Program
+Information,3/26/2023 5:00:10 PM,EventLog,6006,None,The Event log service was stopped.
+Information,3/26/2023 5:00:08 PM,User32,1074,None,"The process C:\Windows\System32\RuntimeBroker.exe (DESKTOP-887GK2L) has initiated the power off of computer DESKTOP-887GK2L on behalf of user DESKTOP-887GK2L\CyberJunkie for the following reason: Other (Unplanned)
+ Reason Code: 0x0
+ Shutdown Type: power off
+ Comment: "
+Information,3/26/2023 5:00:06 PM,Microsoft-Windows-WindowsUpdateClient,19,Windows Update Agent,Installation Successful: Windows successfully installed the following update: Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.385.1178.0)
+Information,3/26/2023 5:00:00 PM,Microsoft-Windows-Kernel-General,1,(5),"The system time has changed to ‎2023‎-‎03‎-‎27T00:00:00.819000000Z from ‎2023‎-‎03‎-‎26T19:01:08.192607800Z.
+
+Change Reason: An application or system component changed the time.
+Process: '\Device\HarddiskVolume3\Program Files\VMware\VMware Tools\vmtoolsd.exe' (PID 2940)."
+Information,3/26/2023 5:00:00 PM,Microsoft-Windows-Kernel-General,24,(11),The time zone information was refreshed with exit reason 0. Current time zone bias is 420.
+Information,3/26/2023 12:01:05 PM,Microsoft-Windows-WindowsUpdateClient,43,Windows Update Agent,Installation Started: Windows has started installing the following update: Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.385.1178.0)
+Information,3/26/2023 12:01:05 PM,Microsoft-Windows-WindowsUpdateClient,44,Windows Update Agent,Windows Update started downloading an update.
+Information,3/26/2023 12:00:43 PM,Service Control Manager,7040,None,The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start.
+Warning,3/26/2023 12:00:31 PM,Microsoft-Windows-DNS-Client,1014,(1014),Name resolution for the name wpad timed out after none of the configured DNS servers responded.
+Information,3/26/2023 12:00:23 PM,Service Control Manager,7026,None,"The following boot-start or system-start driver(s) did not load: 
+dam"
+Information,3/26/2023 12:00:22 PM,Microsoft-Windows-Winlogon,7001,(1101),User Logon Notification for Customer Experience Improvement Program
+Information,3/26/2023 12:00:22 PM,Microsoft-Windows-DHCPv6-Client,51046,Service State Event,DHCPv6 client service is started
+Information,3/26/2023 12:00:22 PM,Microsoft-Windows-Dhcp-Client,50103,Service State Event,DHCPv4 client registered for shutdown notification
+Information,3/26/2023 12:00:22 PM,Microsoft-Windows-Dhcp-Client,50036,Service State Event,DHCPv4 client service is started
+Information,3/26/2023 12:00:22 PM,Microsoft-Windows-FilterManager,6,None,"File System Filter 'bindflt' (10.0, ‎2005‎-‎08‎-‎08T13:17:00.000000000Z) has successfully loaded and registered with Filter Manager."
+Information,3/26/2023 12:00:22 PM,Microsoft-Windows-FilterManager,6,None,"File System Filter 'storqosflt' (10.0, ‎2007‎-‎04‎-‎09T11:08:30.000000000Z) has successfully loaded and registered with Filter Manager."
+Information,3/26/2023 12:00:22 PM,Microsoft-Windows-FilterManager,6,None,"File System Filter 'CldFlt' (10.0, ‎2072‎-‎04‎-‎19T10:54:12.000000000Z) has successfully loaded and registered with Filter Manager."
+Information,3/26/2023 12:00:22 PM,Microsoft-Windows-FilterManager,1,None,"File System Filter 'CldFlt' (Version 10.0, ‎2072‎-‎04‎-‎19T10:54:12.000000000Z) unloaded successfully."
+Information,3/26/2023 12:00:22 PM,Microsoft-Windows-FilterManager,6,None,"File System Filter 'CldFlt' (10.0, ‎2072‎-‎04‎-‎19T10:54:12.000000000Z) has successfully loaded and registered with Filter Manager."
+Information,3/26/2023 12:00:22 PM,Microsoft-Windows-FilterManager,6,None,"File System Filter 'luafv' (10.0, ‎1986‎-‎08‎-‎13T13:58:59.000000000Z) has successfully loaded and registered with Filter Manager."
+Information,3/26/2023 12:00:22 PM,Microsoft-Windows-FilterManager,6,None,"File System Filter 'wcifs' (10.0, ‎2084‎-‎01‎-‎02T01:25:46.000000000Z) has successfully loaded and registered with Filter Manager."
+Information,3/26/2023 12:00:21 PM,Microsoft-Windows-Directory-Services-SAM,16983,None,"The security account manager is now logging periodic summary events for remote clients that call legacy password change or set RPC methods.
+
+For more information please see https://go.microsoft.com/fwlink/?linkid=2150956.
+"
+Information,3/26/2023 12:00:21 PM,Microsoft-Windows-Directory-Services-SAM,16977,None,"The domain is configured with the following minimum password length-related settings.
+
+MinimumPasswordLength: 0
+
+RelaxMinimumPasswordLengthLimits: 0
+
+MinimumPasswordLengthAudit: -1
+
+For more information see https://go.microsoft.com/fwlink/?LinkId=2097191.
+"
+Information,3/26/2023 12:00:21 PM,Microsoft-Windows-Directory-Services-SAM,16962,None,"Remote calls to the SAM database are being restricted using the default security descriptor: O:SYG:SYD:(A;;RC;;;BA).
+For more information please see http://go.microsoft.com/fwlink/?LinkId=787651."
+Information,3/26/2023 12:00:21 PM,Microsoft-Windows-Wininit,14,None,"Credential Guard configuration: 0x0, 0"
+Information,3/26/2023 12:00:20 PM,Microsoft-Windows-Kernel-General,24,(11),The time zone information was refreshed with exit reason 0. Current time zone bias is 420.
+Information,3/26/2023 12:00:20 PM,Microsoft-Windows-Ntfs,98,None,Volume \\?\Volume{3e1ae928-61ee-4947-af5a-9cabbd50feef} (\Device\HarddiskVolume4) is healthy.  No action is needed.
+Information,3/26/2023 12:00:20 PM,e1i65x64,32,None,"The description for Event ID 32 from source e1i65x64 cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+Intel(R) 82574L Gigabit Network Connection
+
+The message resource is present but the message was not found in the message table
+"
+Information,3/26/2023 12:00:20 PM,Microsoft-Windows-Kernel-Processor-Power,55,(47),"Processor 7 in group 0 exposes the following power management capabilities:
+
+Idle state type: ACPI Idle (C) States (1 state(s))
+
+Performance state type: None
+Nominal Frequency (MHz): 3693
+Maximum performance percentage: 100
+Minimum performance percentage: 100
+Minimum throttle percentage: 100"
+Information,3/26/2023 12:00:20 PM,Microsoft-Windows-Kernel-Processor-Power,55,(47),"Processor 6 in group 0 exposes the following power management capabilities:
+
+Idle state type: ACPI Idle (C) States (1 state(s))
+
+Performance state type: None
+Nominal Frequency (MHz): 3693
+Maximum performance percentage: 100
+Minimum performance percentage: 100
+Minimum throttle percentage: 100"
+Information,3/26/2023 12:00:20 PM,Microsoft-Windows-Kernel-Processor-Power,55,(47),"Processor 5 in group 0 exposes the following power management capabilities:
+
+Idle state type: ACPI Idle (C) States (1 state(s))
+
+Performance state type: None
+Nominal Frequency (MHz): 3693
+Maximum performance percentage: 100
+Minimum performance percentage: 100
+Minimum throttle percentage: 100"
+Information,3/26/2023 12:00:20 PM,Microsoft-Windows-Kernel-Processor-Power,55,(47),"Processor 4 in group 0 exposes the following power management capabilities:
+
+Idle state type: ACPI Idle (C) States (1 state(s))
+
+Performance state type: None
+Nominal Frequency (MHz): 3693
+Maximum performance percentage: 100
+Minimum performance percentage: 100
+Minimum throttle percentage: 100"
+Information,3/26/2023 12:00:20 PM,Microsoft-Windows-Kernel-Processor-Power,55,(47),"Processor 3 in group 0 exposes the following power management capabilities:
+
+Idle state type: ACPI Idle (C) States (1 state(s))
+
+Performance state type: None
+Nominal Frequency (MHz): 3693
+Maximum performance percentage: 100
+Minimum performance percentage: 100
+Minimum throttle percentage: 100"
+Information,3/26/2023 12:00:20 PM,Microsoft-Windows-Kernel-Processor-Power,55,(47),"Processor 2 in group 0 exposes the following power management capabilities:
+
+Idle state type: ACPI Idle (C) States (1 state(s))
+
+Performance state type: None
+Nominal Frequency (MHz): 3693
+Maximum performance percentage: 100
+Minimum performance percentage: 100
+Minimum throttle percentage: 100"
+Information,3/26/2023 12:00:20 PM,Microsoft-Windows-Kernel-Processor-Power,55,(47),"Processor 1 in group 0 exposes the following power management capabilities:
+
+Idle state type: ACPI Idle (C) States (1 state(s))
+
+Performance state type: None
+Nominal Frequency (MHz): 3693
+Maximum performance percentage: 100
+Minimum performance percentage: 100
+Minimum throttle percentage: 100"
+Information,3/26/2023 12:00:20 PM,Microsoft-Windows-Kernel-Processor-Power,55,(47),"Processor 0 in group 0 exposes the following power management capabilities:
+
+Idle state type: ACPI Idle (C) States (1 state(s))
+
+Performance state type: None
+Nominal Frequency (MHz): 3693
+Maximum performance percentage: 100
+Minimum performance percentage: 100
+Minimum throttle percentage: 100"
+Information,3/26/2023 12:00:19 PM,Microsoft-Windows-Kernel-Power,172,(203),"Connectivity state in standby: Disconnected, Reason: NIC compliance"
+Information,3/26/2023 12:00:19 PM,Microsoft-Windows-FilterManager,6,None,"File System Filter 'npsvctrig' (10.0, ‎2025‎-‎01‎-‎05T19:41:12.000000000Z) has successfully loaded and registered with Filter Manager."
+Information,3/26/2023 12:00:19 PM,Microsoft-Windows-FilterManager,6,None,"File System Filter 'FileCrypt' (10.0, ‎2002‎-‎03‎-‎01T04:12:42.000000000Z) has successfully loaded and registered with Filter Manager."
+Information,3/26/2023 12:00:19 PM,Microsoft-Windows-Ntfs,98,None,Volume C: (\Device\HarddiskVolume3) is healthy.  No action is needed.
+Information,3/26/2023 12:00:19 PM,Microsoft-Windows-FilterManager,6,None,"File System Filter 'SysmonDrv' (0.0, ‎2023‎-‎01‎-‎20T10:59:19.000000000Z) has successfully loaded and registered with Filter Manager."
+Information,3/26/2023 12:00:19 PM,Microsoft-Windows-FilterManager,6,None,"File System Filter 'WdFilter' (10.0, ‎2012‎-‎02‎-‎25T07:53:43.000000000Z) has successfully loaded and registered with Filter Manager."
+Information,3/26/2023 12:00:19 PM,Microsoft-Windows-FilterManager,6,None,"File System Filter 'Wof' (10.0, ‎2023‎-‎04‎-‎22T19:17:53.000000000Z) has successfully loaded and registered with Filter Manager."
+Information,3/26/2023 12:00:19 PM,Microsoft-Windows-FilterManager,6,None,"File System Filter 'FileInfo' (10.0, ‎2062‎-‎12‎-‎22T22:21:06.000000000Z) has successfully loaded and registered with Filter Manager."
+Information,3/26/2023 12:00:17 PM,vmci,3,None,"The description for Event ID 3 from source vmci cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+VMCI: Using capabilities (0x1c).
+
+
+The message resource is present but the message was not found in the message table
+"
+Information,3/26/2023 12:00:15 PM,Microsoft-Windows-HAL,16,None,The iommu fault reporting has been initialized.
+Information,3/26/2023 12:00:15 PM,Microsoft-Windows-Kernel-General,20,(6),"The leap second configuration has been updated.
+Reason: Leap second data initialized from registry during boot
+Leap seconds enabled: true
+New leap second count: 0
+Old leap second count: 0"
+Information,3/26/2023 12:00:15 PM,Microsoft-Windows-Kernel-Boot,32,(58),The bootmgr spent 0 ms waiting for user input.
+Information,3/26/2023 12:00:15 PM,Microsoft-Windows-Kernel-Boot,18,(57),There are 0x1 boot options on this system.
+Information,3/26/2023 12:00:15 PM,Microsoft-Windows-Kernel-Boot,27,(33),The boot type was 0x0.
+Information,3/26/2023 12:00:15 PM,Microsoft-Windows-Kernel-Boot,25,(32),The boot menu policy was 0x1.
+Information,3/26/2023 12:00:15 PM,Microsoft-Windows-Kernel-Boot,238,(101),EFI time zone bias: 2047. Daylight flags: 0.
+Information,3/26/2023 12:00:15 PM,Microsoft-Windows-Kernel-Boot,20,(31),The last shutdown's success status was true. The last boot's success status was true.
+Information,3/26/2023 12:00:15 PM,Microsoft-Windows-Kernel-Boot,153,(62),Virtualization-based security (policies: 0) is disabled.
+Information,3/26/2023 12:00:15 PM,Microsoft-Windows-Kernel-General,12,(1),The operating system started at system time ‎2023‎-‎03‎-‎26T19:00:13.500000000Z.
+Information,3/25/2023 7:40:39 AM,Microsoft-Windows-Kernel-General,13,(2),The operating system is shutting down at system time ‎2023‎-‎03‎-‎25T14:40:39.820297600Z.
+Information,3/25/2023 7:40:39 AM,Microsoft-Windows-Kernel-Power,109,(103),"The kernel power manager has initiated a shutdown transition.
+
+Shutdown Reason: Kernel API"
+Information,3/26/2023 12:00:22 PM,EventLog,6013,None,The system uptime is 8 seconds.
+Information,3/26/2023 12:00:22 PM,EventLog,6005,None,The Event log service was started.
+Information,3/26/2023 12:00:22 PM,EventLog,6009,None,Microsoft (R) Windows (R) 10.00. 19044  Multiprocessor Free.
+Information,3/25/2023 7:40:38 AM,Microsoft-Windows-Dhcp-Client,50037,Service State Event,DHCPv4 client service is stopped. ShutDown Flag value is 1
+Information,3/25/2023 7:40:38 AM,Microsoft-Windows-Dhcp-Client,50106,Service State Event,DHCPv4 is waiting on DHCPv6 service to stop
+Information,3/25/2023 7:40:38 AM,Microsoft-Windows-DHCPv6-Client,51057,Service State Event,DHCPv6 client service stop is almost done.DHCP Context Ref count is 1
+Information,3/25/2023 7:40:38 AM,Microsoft-Windows-DHCPv6-Client,51047,Service State Event,DHCPv6 client service is stopped. ShutDown Flag value is 1
+Information,3/25/2023 7:40:38 AM,Microsoft-Windows-Dhcp-Client,50105,Service State Event,DHCPv4 client ProcessDHCPRequestForever received TERMINATE_EVENT
+Information,3/25/2023 7:40:38 AM,Microsoft-Windows-Dhcp-Client,50104,Service State Event,DHCPv4 client received shutdown notification
+Information,3/25/2023 7:40:38 AM,EventLog,6006,None,The Event log service was stopped.
+Information,3/25/2023 7:40:37 AM,Microsoft-Windows-Winlogon,7002,(1102),User Logoff Notification for Customer Experience Improvement Program
+Information,3/25/2023 7:40:36 AM,User32,1074,None,"The process C:\Windows\System32\RuntimeBroker.exe (DESKTOP-887GK2L) has initiated the power off of computer DESKTOP-887GK2L on behalf of user DESKTOP-887GK2L\CyberJunkie for the following reason: Other (Unplanned)
+ Reason Code: 0x0
+ Shutdown Type: power off
+ Comment: "
+Information,3/25/2023 7:39:03 AM,Service Control Manager,7040,None,The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start.
+Warning,3/25/2023 7:36:42 AM,Microsoft-Windows-DistributedCOM,10016,None,"The application-specific permission settings do not grant Local Launch permission for the COM Server application with CLSID 
+Windows.SecurityCenter.SecurityAppBroker
+ and APPID 
+Unavailable
+ to the user NT AUTHORITY\SYSTEM SID (S-1-5-18) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Warning,3/25/2023 7:36:42 AM,Microsoft-Windows-DistributedCOM,10016,None,"The application-specific permission settings do not grant Local Launch permission for the COM Server application with CLSID 
+Windows.SecurityCenter.WscBrokerManager
+ and APPID 
+Unavailable
+ to the user NT AUTHORITY\SYSTEM SID (S-1-5-18) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Information,3/25/2023 7:35:31 AM,Microsoft-Windows-WindowsUpdateClient,19,Windows Update Agent,Installation Successful: Windows successfully installed the following update: Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.385.1102.0)
+Information,3/25/2023 7:35:26 AM,Microsoft-Windows-WindowsUpdateClient,43,Windows Update Agent,Installation Started: Windows has started installing the following update: Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.385.1102.0)
+Information,3/25/2023 7:35:14 AM,Microsoft-Windows-WindowsUpdateClient,44,Windows Update Agent,Windows Update started downloading an update.
+Information,3/25/2023 7:34:48 AM,Service Control Manager,7040,None,The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start.
+Warning,3/25/2023 7:34:48 AM,Microsoft-Windows-DNS-Client,1014,(1014),Name resolution for the name wpad timed out after none of the configured DNS servers responded.
+Information,3/25/2023 7:34:43 AM,Display,4107,None,A caller specified the SDC_FORCE_MODE_ENUMERATION flag in a call to the SetDisplayConfig() API
+Information,3/25/2023 7:34:42 AM,Microsoft-Windows-Kernel-General,1,(5),"The system time has changed to ‎2023‎-‎03‎-‎25T14:34:42.059000000Z from ‎2023‎-‎03‎-‎24T21:37:53.127586000Z.
+
+Change Reason: An application or system component changed the time.
+Process: '\Device\HarddiskVolume3\Program Files\VMware\VMware Tools\vmtoolsd.exe' (PID 2956)."
+Information,3/25/2023 7:34:42 AM,Microsoft-Windows-Kernel-General,24,(11),The time zone information was refreshed with exit reason 0. Current time zone bias is 420.
+Information,3/24/2023 2:37:52 PM,Service Control Manager,7026,None,"The following boot-start or system-start driver(s) did not load: 
+dam"
+Information,3/24/2023 2:37:52 PM,Microsoft-Windows-Winlogon,7001,(1101),User Logon Notification for Customer Experience Improvement Program
+Information,3/24/2023 2:37:52 PM,Microsoft-Windows-DHCPv6-Client,51046,Service State Event,DHCPv6 client service is started
+Information,3/24/2023 2:37:52 PM,Microsoft-Windows-Dhcp-Client,50103,Service State Event,DHCPv4 client registered for shutdown notification
+Information,3/24/2023 2:37:52 PM,Microsoft-Windows-Dhcp-Client,50036,Service State Event,DHCPv4 client service is started
+Information,3/24/2023 2:37:52 PM,Microsoft-Windows-FilterManager,6,None,"File System Filter 'bindflt' (10.0, ‎2005‎-‎08‎-‎08T13:17:00.000000000Z) has successfully loaded and registered with Filter Manager."
+Information,3/24/2023 2:37:52 PM,Microsoft-Windows-FilterManager,6,None,"File System Filter 'storqosflt' (10.0, ‎2007‎-‎04‎-‎09T11:08:30.000000000Z) has successfully loaded and registered with Filter Manager."
+Information,3/24/2023 2:37:52 PM,Microsoft-Windows-FilterManager,6,None,"File System Filter 'CldFlt' (10.0, ‎2072‎-‎04‎-‎19T10:54:12.000000000Z) has successfully loaded and registered with Filter Manager."
+Information,3/24/2023 2:37:52 PM,Microsoft-Windows-FilterManager,1,None,"File System Filter 'CldFlt' (Version 10.0, ‎2072‎-‎04‎-‎19T10:54:12.000000000Z) unloaded successfully."
+Information,3/24/2023 2:37:52 PM,Microsoft-Windows-FilterManager,6,None,"File System Filter 'CldFlt' (10.0, ‎2072‎-‎04‎-‎19T10:54:12.000000000Z) has successfully loaded and registered with Filter Manager."
+Information,3/24/2023 2:37:52 PM,Microsoft-Windows-FilterManager,6,None,"File System Filter 'luafv' (10.0, ‎1986‎-‎08‎-‎13T13:58:59.000000000Z) has successfully loaded and registered with Filter Manager."
+Information,3/24/2023 2:37:52 PM,Microsoft-Windows-FilterManager,6,None,"File System Filter 'wcifs' (10.0, ‎2084‎-‎01‎-‎02T01:25:46.000000000Z) has successfully loaded and registered with Filter Manager."
+Information,3/24/2023 2:37:51 PM,Microsoft-Windows-Directory-Services-SAM,16983,None,"The security account manager is now logging periodic summary events for remote clients that call legacy password change or set RPC methods.
+
+For more information please see https://go.microsoft.com/fwlink/?linkid=2150956.
+"
+Information,3/24/2023 2:37:51 PM,Microsoft-Windows-Directory-Services-SAM,16977,None,"The domain is configured with the following minimum password length-related settings.
+
+MinimumPasswordLength: 0
+
+RelaxMinimumPasswordLengthLimits: 0
+
+MinimumPasswordLengthAudit: -1
+
+For more information see https://go.microsoft.com/fwlink/?LinkId=2097191.
+"
+Information,3/24/2023 2:37:51 PM,Microsoft-Windows-Directory-Services-SAM,16962,None,"Remote calls to the SAM database are being restricted using the default security descriptor: O:SYG:SYD:(A;;RC;;;BA).
+For more information please see http://go.microsoft.com/fwlink/?LinkId=787651."
+Information,3/24/2023 2:37:51 PM,Microsoft-Windows-Wininit,14,None,"Credential Guard configuration: 0x0, 0"
+Information,3/24/2023 2:37:51 PM,Microsoft-Windows-Kernel-General,24,(11),The time zone information was refreshed with exit reason 0. Current time zone bias is 420.
+Information,3/24/2023 2:37:50 PM,Microsoft-Windows-Ntfs,98,None,Volume \\?\Volume{3e1ae928-61ee-4947-af5a-9cabbd50feef} (\Device\HarddiskVolume4) is healthy.  No action is needed.
+Information,3/24/2023 2:37:50 PM,e1i65x64,32,None,"The description for Event ID 32 from source e1i65x64 cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+Intel(R) 82574L Gigabit Network Connection
+
+The message resource is present but the message was not found in the message table
+"
+Information,3/24/2023 2:37:50 PM,Microsoft-Windows-Kernel-Processor-Power,55,(47),"Processor 7 in group 0 exposes the following power management capabilities:
+
+Idle state type: ACPI Idle (C) States (1 state(s))
+
+Performance state type: None
+Nominal Frequency (MHz): 3693
+Maximum performance percentage: 100
+Minimum performance percentage: 100
+Minimum throttle percentage: 100"
+Information,3/24/2023 2:37:50 PM,Microsoft-Windows-Kernel-Processor-Power,55,(47),"Processor 6 in group 0 exposes the following power management capabilities:
+
+Idle state type: ACPI Idle (C) States (1 state(s))
+
+Performance state type: None
+Nominal Frequency (MHz): 3693
+Maximum performance percentage: 100
+Minimum performance percentage: 100
+Minimum throttle percentage: 100"
+Information,3/24/2023 2:37:50 PM,Microsoft-Windows-Kernel-Processor-Power,55,(47),"Processor 5 in group 0 exposes the following power management capabilities:
+
+Idle state type: ACPI Idle (C) States (1 state(s))
+
+Performance state type: None
+Nominal Frequency (MHz): 3693
+Maximum performance percentage: 100
+Minimum performance percentage: 100
+Minimum throttle percentage: 100"
+Information,3/24/2023 2:37:50 PM,Microsoft-Windows-Kernel-Processor-Power,55,(47),"Processor 4 in group 0 exposes the following power management capabilities:
+
+Idle state type: ACPI Idle (C) States (1 state(s))
+
+Performance state type: None
+Nominal Frequency (MHz): 3693
+Maximum performance percentage: 100
+Minimum performance percentage: 100
+Minimum throttle percentage: 100"
+Information,3/24/2023 2:37:50 PM,Microsoft-Windows-Kernel-Processor-Power,55,(47),"Processor 3 in group 0 exposes the following power management capabilities:
+
+Idle state type: ACPI Idle (C) States (1 state(s))
+
+Performance state type: None
+Nominal Frequency (MHz): 3693
+Maximum performance percentage: 100
+Minimum performance percentage: 100
+Minimum throttle percentage: 100"
+Information,3/24/2023 2:37:50 PM,Microsoft-Windows-Kernel-Processor-Power,55,(47),"Processor 2 in group 0 exposes the following power management capabilities:
+
+Idle state type: ACPI Idle (C) States (1 state(s))
+
+Performance state type: None
+Nominal Frequency (MHz): 3693
+Maximum performance percentage: 100
+Minimum performance percentage: 100
+Minimum throttle percentage: 100"
+Information,3/24/2023 2:37:50 PM,Microsoft-Windows-Kernel-Processor-Power,55,(47),"Processor 1 in group 0 exposes the following power management capabilities:
+
+Idle state type: ACPI Idle (C) States (1 state(s))
+
+Performance state type: None
+Nominal Frequency (MHz): 3693
+Maximum performance percentage: 100
+Minimum performance percentage: 100
+Minimum throttle percentage: 100"
+Information,3/24/2023 2:37:50 PM,Microsoft-Windows-Kernel-Processor-Power,55,(47),"Processor 0 in group 0 exposes the following power management capabilities:
+
+Idle state type: ACPI Idle (C) States (1 state(s))
+
+Performance state type: None
+Nominal Frequency (MHz): 3693
+Maximum performance percentage: 100
+Minimum performance percentage: 100
+Minimum throttle percentage: 100"
+Information,3/24/2023 2:37:49 PM,Microsoft-Windows-Kernel-Power,172,(203),"Connectivity state in standby: Disconnected, Reason: NIC compliance"
+Information,3/24/2023 2:37:49 PM,Microsoft-Windows-FilterManager,6,None,"File System Filter 'npsvctrig' (10.0, ‎2025‎-‎01‎-‎05T19:41:12.000000000Z) has successfully loaded and registered with Filter Manager."
+Information,3/24/2023 2:37:49 PM,Microsoft-Windows-FilterManager,6,None,"File System Filter 'FileCrypt' (10.0, ‎2002‎-‎03‎-‎01T04:12:42.000000000Z) has successfully loaded and registered with Filter Manager."
+Information,3/24/2023 2:37:49 PM,Microsoft-Windows-Ntfs,98,None,Volume C: (\Device\HarddiskVolume3) is healthy.  No action is needed.
+Information,3/24/2023 2:37:49 PM,Microsoft-Windows-FilterManager,6,None,"File System Filter 'SysmonDrv' (0.0, ‎2023‎-‎01‎-‎20T10:59:19.000000000Z) has successfully loaded and registered with Filter Manager."
+Information,3/24/2023 2:37:49 PM,Microsoft-Windows-FilterManager,6,None,"File System Filter 'WdFilter' (10.0, ‎2012‎-‎02‎-‎25T07:53:43.000000000Z) has successfully loaded and registered with Filter Manager."
+Information,3/24/2023 2:37:49 PM,Microsoft-Windows-FilterManager,6,None,"File System Filter 'Wof' (10.0, ‎2023‎-‎04‎-‎22T19:17:53.000000000Z) has successfully loaded and registered with Filter Manager."
+Information,3/24/2023 2:37:49 PM,Microsoft-Windows-FilterManager,6,None,"File System Filter 'FileInfo' (10.0, ‎2062‎-‎12‎-‎22T22:21:06.000000000Z) has successfully loaded and registered with Filter Manager."
+Information,3/24/2023 2:37:47 PM,vmci,3,None,"The description for Event ID 3 from source vmci cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+VMCI: Using capabilities (0x1c).
+
+
+The message resource is present but the message was not found in the message table
+"
+Information,3/24/2023 2:37:45 PM,Microsoft-Windows-HAL,16,None,The iommu fault reporting has been initialized.
+Information,3/24/2023 2:37:45 PM,Microsoft-Windows-Kernel-General,20,(6),"The leap second configuration has been updated.
+Reason: Leap second data initialized from registry during boot
+Leap seconds enabled: true
+New leap second count: 0
+Old leap second count: 0"
+Information,3/24/2023 2:37:45 PM,Microsoft-Windows-Kernel-Boot,32,(58),The bootmgr spent 0 ms waiting for user input.
+Information,3/24/2023 2:37:45 PM,Microsoft-Windows-Kernel-Boot,18,(57),There are 0x1 boot options on this system.
+Information,3/24/2023 2:37:45 PM,Microsoft-Windows-Kernel-Boot,27,(33),The boot type was 0x0.
+Information,3/24/2023 2:37:45 PM,Microsoft-Windows-Kernel-Boot,25,(32),The boot menu policy was 0x1.
+Information,3/24/2023 2:37:45 PM,Microsoft-Windows-Kernel-Boot,238,(101),EFI time zone bias: 2047. Daylight flags: 0.
+Information,3/24/2023 2:37:45 PM,Microsoft-Windows-Kernel-Boot,20,(31),The last shutdown's success status was true. The last boot's success status was true.
+Information,3/24/2023 2:37:45 PM,Microsoft-Windows-Kernel-Boot,153,(62),Virtualization-based security (policies: 0) is disabled.
+Information,3/24/2023 2:37:45 PM,Microsoft-Windows-Kernel-General,12,(1),The operating system started at system time ‎2023‎-‎03‎-‎24T21:37:43.500000000Z.
+Information,3/24/2023 2:37:35 PM,Microsoft-Windows-Kernel-General,13,(2),The operating system is shutting down at system time ‎2023‎-‎03‎-‎24T21:37:35.504310300Z.
+Information,3/24/2023 2:37:33 PM,Microsoft-Windows-Kernel-Power,109,(103),"The kernel power manager has initiated a shutdown transition.
+
+Shutdown Reason: Kernel API"
+Information,3/24/2023 2:37:52 PM,EventLog,6013,None,The system uptime is 8 seconds.
+Information,3/24/2023 2:37:52 PM,EventLog,6005,None,The Event log service was started.
+Information,3/24/2023 2:37:52 PM,EventLog,6009,None,Microsoft (R) Windows (R) 10.00. 19044  Multiprocessor Free.
+Information,3/24/2023 2:37:32 PM,Microsoft-Windows-Dhcp-Client,50037,Service State Event,DHCPv4 client service is stopped. ShutDown Flag value is 1
+Information,3/24/2023 2:37:32 PM,Microsoft-Windows-DHCPv6-Client,51057,Service State Event,DHCPv6 client service stop is almost done.DHCP Context Ref count is 1
+Information,3/24/2023 2:37:32 PM,Microsoft-Windows-DHCPv6-Client,51047,Service State Event,DHCPv6 client service is stopped. ShutDown Flag value is 1
+Information,3/24/2023 2:37:32 PM,Microsoft-Windows-Dhcp-Client,50106,Service State Event,DHCPv4 is waiting on DHCPv6 service to stop
+Information,3/24/2023 2:37:32 PM,Microsoft-Windows-Dhcp-Client,50105,Service State Event,DHCPv4 client ProcessDHCPRequestForever received TERMINATE_EVENT
+Information,3/24/2023 2:37:32 PM,Microsoft-Windows-Dhcp-Client,50104,Service State Event,DHCPv4 client received shutdown notification
+Information,3/24/2023 2:37:32 PM,Microsoft-Windows-Kernel-General,1,(5),"The system time has changed to ‎2023‎-‎03‎-‎24T21:37:32.489734900Z from ‎2023‎-‎03‎-‎24T21:37:32.481087500Z.
+
+Change Reason: An application or system component changed the time.
+Process: '\Device\HarddiskVolume3\Windows\System32\svchost.exe' (PID 7344)."
+Information,3/24/2023 2:37:32 PM,Microsoft-Windows-Kernel-General,24,(11),The time zone information was refreshed with exit reason 0. Current time zone bias is 420.
+Information,3/24/2023 2:37:32 PM,EventLog,6006,None,The Event log service was stopped.
+Information,3/24/2023 2:37:31 PM,Microsoft-Windows-Winlogon,7002,(1102),User Logoff Notification for Customer Experience Improvement Program
+Error,3/24/2023 2:37:31 PM,Microsoft-Windows-DistributedCOM,10010,None,The server {9BA05972-F6A8-11CF-A442-00A0C90A8F39} did not register with DCOM within the required timeout.
+Information,3/24/2023 2:37:29 PM,User32,1074,None,"The process C:\Windows\System32\RuntimeBroker.exe (DESKTOP-887GK2L) has initiated the restart of computer DESKTOP-887GK2L on behalf of user DESKTOP-887GK2L\CyberJunkie for the following reason: Other (Unplanned)
+ Reason Code: 0x0
+ Shutdown Type: restart
+ Comment: "
+Warning,3/24/2023 2:33:23 PM,Microsoft-Windows-DNS-Client,1014,(1014),Name resolution for the name wpad timed out after none of the configured DNS servers responded.
+Information,3/24/2023 2:31:57 PM,Microsoft-Windows-Eventlog,104,Log clear,The Microsoft-Windows-Sysmon/Operational log file was cleared.
+Information,3/24/2023 2:22:42 PM,Microsoft-Windows-Eventlog,104,Log clear,The Microsoft-Windows-Sysmon/Operational log file was cleared.
+Warning,3/24/2023 2:13:09 PM,Microsoft-Windows-DNS-Client,1014,(1014),Name resolution for the name wpad timed out after none of the configured DNS servers responded.
+Information,3/24/2023 2:10:32 PM,Microsoft-Windows-Eventlog,104,Log clear,The Microsoft-Windows-Sysmon/Operational log file was cleared.
+Warning,3/24/2023 2:03:02 PM,Microsoft-Windows-DNS-Client,1014,(1014),Name resolution for the name wpad timed out after none of the configured DNS servers responded.
+Information,3/24/2023 1:59:03 PM,Microsoft-Windows-Eventlog,104,Log clear,The Microsoft-Windows-Sysmon/Operational log file was cleared.
+Information,3/24/2023 1:58:18 PM,Microsoft-Windows-Eventlog,104,Log clear,The Microsoft-Windows-Sysmon/Operational log file was cleared.
+Information,3/24/2023 1:56:01 PM,Microsoft-Windows-Eventlog,104,Log clear,The Microsoft-Windows-Sysmon/Operational log file was cleared.
+Information,3/24/2023 1:50:54 PM,Microsoft-Windows-Eventlog,104,Log clear,The Microsoft-Windows-Sysmon/Operational log file was cleared.
+Information,3/24/2023 1:50:22 PM,Microsoft-Windows-Eventlog,104,Log clear,The Microsoft-Windows-Sysmon/Operational log file was cleared.
+Information,3/24/2023 1:45:03 PM,Microsoft-Windows-Eventlog,104,Log clear,The Microsoft-Windows-Sysmon/Operational log file was cleared.
+Information,3/24/2023 1:43:30 PM,Service Control Manager,7040,None,The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start.
+Error,3/24/2023 1:41:31 PM,Microsoft-Windows-Time-Service,34,None,"The time service has detected that the system time needs to be  changed by 0 seconds. The time service will not change the system time by more than 54000 seconds. Verify that your time and time zone are correct, and that the time source time.windows.com,0x9 (ntp.m|0x9|0.0.0.0:123->20.101.57.9:123) is working properly."
+Warning,3/24/2023 1:41:31 PM,Microsoft-Windows-Time-Service,52,None,The time service has set the time with offset 61014 seconds.
+Information,3/24/2023 1:41:31 PM,Microsoft-Windows-Kernel-General,1,(5),"The system time has changed to ‎2023‎-‎03‎-‎24T20:41:31.749531000Z from ‎2023‎-‎03‎-‎25T13:38:26.645063900Z.
+
+Change Reason: An application or system component changed the time.
+Process: '\Device\HarddiskVolume3\Windows\System32\svchost.exe' (PID 7344)."
+Information,3/24/2023 1:41:31 PM,Microsoft-Windows-Kernel-General,24,(11),The time zone information was refreshed with exit reason 0. Current time zone bias is 420.
+Warning,3/25/2023 6:38:19 AM,Microsoft-Windows-DNS-Client,1014,(1014),Name resolution for the name wpad timed out after none of the configured DNS servers responded.
+Information,3/25/2023 6:38:10 AM,Microsoft-Windows-Time-Service,37,None,"The time provider NtpClient is currently receiving valid time data from time.windows.com,0x9 (ntp.m|0x9|0.0.0.0:123->20.101.57.9:123)."
+Information,3/25/2023 6:38:09 AM,Service Control Manager,7040,None,The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start.
+Information,3/25/2023 6:38:09 AM,Microsoft-Windows-Kernel-General,1,(5),"The system time has changed to ‎2023‎-‎03‎-‎25T13:38:09.248000000Z from ‎2023‎-‎03‎-‎24T20:41:15.537719500Z.
+
+Change Reason: An application or system component changed the time.
+Process: '\Device\HarddiskVolume3\Program Files\VMware\VMware Tools\vmtoolsd.exe' (PID 9952)."
+Information,3/25/2023 6:38:09 AM,Microsoft-Windows-Kernel-General,24,(11),The time zone information was refreshed with exit reason 0. Current time zone bias is 420.
+Warning,3/24/2023 1:41:06 PM,Microsoft-Windows-DNS-Client,1014,(1014),Name resolution for the name wpad timed out after none of the configured DNS servers responded.
+Warning,3/24/2023 1:30:59 PM,Microsoft-Windows-DNS-Client,1014,(1014),Name resolution for the name wpad timed out after none of the configured DNS servers responded.
+Information,3/24/2023 1:17:53 PM,Application Popup,26,None,Application popup: 31ff0d955a10dec0f686767a40996fca135de635bc52d96a11b578b092fc13a3.exe - System Error : The code execution cannot proceed because avformat-58.dll was not found. Reinstalling the program may fix this problem. 
+Information,3/24/2023 1:17:53 PM,Application Popup,26,None,Application popup: 31ff0d955a10dec0f686767a40996fca135de635bc52d96a11b578b092fc13a3.exe - System Error : The code execution cannot proceed because avcodec-58.dll was not found. Reinstalling the program may fix this problem. 
+Information,3/24/2023 1:17:53 PM,Application Popup,26,None,Application popup: 31ff0d955a10dec0f686767a40996fca135de635bc52d96a11b578b092fc13a3.exe - System Error : The code execution cannot proceed because avutil-56.dll was not found. Reinstalling the program may fix this problem. 
+Information,3/24/2023 1:17:53 PM,Application Popup,26,None,Application popup: 31ff0d955a10dec0f686767a40996fca135de635bc52d96a11b578b092fc13a3.exe - System Error : The code execution cannot proceed because libcurl.dll was not found. Reinstalling the program may fix this problem. 
+Information,3/24/2023 1:17:38 PM,Microsoft-Windows-Eventlog,104,Log clear,The Microsoft-Windows-Sysmon/Operational log file was cleared.
+Information,3/24/2023 1:15:30 PM,Microsoft-Windows-Eventlog,104,Log clear,The Microsoft-Windows-Sysmon/Operational log file was cleared.
+Warning,3/24/2023 1:10:44 PM,Microsoft-Windows-DNS-Client,1014,(1014),Name resolution for the name wpad timed out after none of the configured DNS servers responded.
+Information,3/24/2023 1:09:34 PM,Microsoft-Windows-Eventlog,104,Log clear,The Microsoft-Windows-Sysmon/Operational log file was cleared.
+Information,3/24/2023 1:06:20 PM,Microsoft-Windows-Eventlog,104,Log clear,The Microsoft-Windows-Sysmon/Operational log file was cleared.
+Warning,3/24/2023 1:00:37 PM,Microsoft-Windows-DNS-Client,1014,(1014),Name resolution for the name wpad timed out after none of the configured DNS servers responded.
+Information,3/24/2023 12:42:30 PM,Microsoft-Windows-Eventlog,104,Log clear,The Microsoft-Windows-Sysmon/Operational log file was cleared.
+Information,3/24/2023 12:41:37 PM,Microsoft-Windows-FilterManager,6,None,"File System Filter 'SysmonDrv' (0.0, ‎2023‎-‎01‎-‎20T10:59:19.000000000Z) has successfully loaded and registered with Filter Manager."
+Information,3/24/2023 12:41:37 PM,Service Control Manager,7045,None,"A service was installed in the system.
+
+Service Name:  SysmonDrv
+Service File Name:  C:\Windows\SysmonDrv.sys
+Service Type:  kernel mode driver
+Service Start Type:  boot start
+Service Account:  "
+Information,3/24/2023 12:41:37 PM,Service Control Manager,7045,None,"A service was installed in the system.
+
+Service Name:  Sysmon64
+Service File Name:  C:\Windows\Sysmon64.exe
+Service Type:  user mode service
+Service Start Type:  auto start
+Service Account:  LocalSystem"
+Information,3/24/2023 12:41:28 PM,Service Control Manager,7040,None,The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start.
+Warning,3/24/2023 12:38:55 PM,Microsoft-Windows-DNS-Client,1014,(1014),Name resolution for the name wpad timed out after none of the configured DNS servers responded.
+Information,3/24/2023 12:34:32 PM,Service Control Manager,7040,None,The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start.
+Information,3/24/2023 12:34:12 PM,Service Control Manager,7045,None,"A service was installed in the system.
+
+Service Name:  VMware Snapshot Provider
+Service File Name:  C:\Windows\system32\dllhost.exe /Processid:{296AA8F7-7CA6-4968-828D-D4BFCB72938F}
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  NT AUTHORITY\LocalService"
+Information,3/24/2023 12:34:11 PM,Service Control Manager,7045,None,"A service was installed in the system.
+
+Service Name:  VMware Tools
+Service File Name:  ""C:\Program Files\VMware\VMware Tools\vmtoolsd.exe""
+Service Type:  user mode service
+Service Start Type:  auto start
+Service Account:  LocalSystem"
+Warning,3/24/2023 12:33:29 PM,Microsoft-Windows-DistributedCOM,10016,None,"The machine-default permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{C2F03A33-21F5-47FA-B4BB-156362A2F239}
+ and APPID 
+{316CDED5-E4AE-4B15-9113-7055D84DCC97}
+ to the user DESKTOP-887GK2L\CyberJunkie SID (S-1-5-21-3393683511-3463148672-371912004-1001) from address LocalHost (Using LRPC) running in the application container Microsoft.Windows.ShellExperienceHost_10.0.19041.1949_neutral_neutral_cw5n1h2txyewy SID (S-1-15-2-155514346-2573954481-755741238-1654018636-1233331829-3075935687-2861478708). This security permission can be modified using the Component Services administrative tool."
+Warning,3/24/2023 12:32:15 PM,Microsoft-Windows-DistributedCOM,10016,None,"The machine-default permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{C2F03A33-21F5-47FA-B4BB-156362A2F239}
+ and APPID 
+{316CDED5-E4AE-4B15-9113-7055D84DCC97}
+ to the user DESKTOP-887GK2L\CyberJunkie SID (S-1-5-21-3393683511-3463148672-371912004-1001) from address LocalHost (Using LRPC) running in the application container Microsoft.Windows.ShellExperienceHost_10.0.19041.1949_neutral_neutral_cw5n1h2txyewy SID (S-1-15-2-155514346-2573954481-755741238-1654018636-1233331829-3075935687-2861478708). This security permission can be modified using the Component Services administrative tool."
+Warning,3/24/2023 12:29:26 PM,Microsoft-Windows-DNS-Client,1014,(1014),Name resolution for the name wpad timed out after none of the configured DNS servers responded.
+Information,3/24/2023 12:22:47 PM,Application Popup,26,None,Application popup: 31ff0d955a10dec0f686767a40996fca135de635bc52d96a11b578b092fc13a3.exe - System Error : The code execution cannot proceed because avformat-58.dll was not found. Reinstalling the program may fix this problem. 
+Information,3/24/2023 12:22:47 PM,Application Popup,26,None,Application popup: 31ff0d955a10dec0f686767a40996fca135de635bc52d96a11b578b092fc13a3.exe - System Error : The code execution cannot proceed because avcodec-58.dll was not found. Reinstalling the program may fix this problem. 
+Information,3/24/2023 12:22:47 PM,Application Popup,26,None,Application popup: 31ff0d955a10dec0f686767a40996fca135de635bc52d96a11b578b092fc13a3.exe - System Error : The code execution cannot proceed because avutil-56.dll was not found. Reinstalling the program may fix this problem. 
+Information,3/24/2023 12:22:47 PM,Application Popup,26,None,Application popup: 31ff0d955a10dec0f686767a40996fca135de635bc52d96a11b578b092fc13a3.exe - System Error : The code execution cannot proceed because libcurl.dll was not found. Reinstalling the program may fix this problem. 
+Information,3/24/2023 12:09:46 PM,Microsoft-Windows-WindowsUpdateClient,19,Windows Update Agent,Installation Successful: Windows successfully installed the following update: Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.385.1020.0)
+Information,3/24/2023 12:09:42 PM,Microsoft-Windows-WindowsUpdateClient,43,Windows Update Agent,Installation Started: Windows has started installing the following update: Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.385.1020.0)
+Information,3/24/2023 12:09:42 PM,Microsoft-Windows-WindowsUpdateClient,44,Windows Update Agent,Windows Update started downloading an update.
+Warning,3/24/2023 12:08:40 PM,Microsoft-Windows-DNS-Client,1014,(1014),Name resolution for the name wpad timed out after none of the configured DNS servers responded.
+Information,3/24/2023 12:08:30 PM,Microsoft-Windows-Kernel-General,1,(5),"The system time has changed to ‎2023‎-‎03‎-‎24T19:08:30.385000000Z from ‎2023‎-‎03‎-‎24T13:42:00.912106100Z.
+
+Change Reason: An application or system component changed the time.
+Process: '\Device\HarddiskVolume3\Program Files\VMware\VMware Tools\vmtoolsd.exe' (PID 2924)."
+Information,3/24/2023 12:08:30 PM,Microsoft-Windows-Kernel-General,24,(11),The time zone information was refreshed with exit reason 0. Current time zone bias is 420.
+Information,3/24/2023 12:08:30 PM,EventLog,6013,None,The system uptime is 33230 seconds.
+Warning,3/24/2023 6:38:26 AM,Microsoft-Windows-DNS-Client,1014,(1014),Name resolution for the name wpad timed out after none of the configured DNS servers responded.
+Warning,3/24/2023 6:18:12 AM,Microsoft-Windows-DNS-Client,1014,(1014),Name resolution for the name wpad timed out after none of the configured DNS servers responded.
+Warning,3/24/2023 6:08:05 AM,Microsoft-Windows-DNS-Client,1014,(1014),Name resolution for the name wpad timed out after none of the configured DNS servers responded.
+Information,3/24/2023 6:01:52 AM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.WindowsAppRuntime.1.2_2000.802.31.0_x64__8wekyb3d8bbwe\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information,3/24/2023 6:01:46 AM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.WindowsAppRuntime.1.2_2000.802.31.0_x86__8wekyb3d8bbwe\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information,3/24/2023 6:01:38 AM,Microsoft-Windows-WindowsUpdateClient,44,Windows Update Agent,Windows Update started downloading an update.
+Warning,3/24/2023 5:47:51 AM,Microsoft-Windows-DNS-Client,1014,(1014),Name resolution for the name wpad timed out after none of the configured DNS servers responded.
+Warning,3/24/2023 5:33:15 AM,Microsoft-Windows-DNS-Client,1014,(1014),Name resolution for the name wpad timed out after none of the configured DNS servers responded.
+Warning,3/24/2023 5:27:47 AM,Microsoft-Windows-DistributedCOM,10016,None,"The machine-default permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{C2F03A33-21F5-47FA-B4BB-156362A2F239}
+ and APPID 
+{316CDED5-E4AE-4B15-9113-7055D84DCC97}
+ to the user DESKTOP-887GK2L\CyberJunkie SID (S-1-5-21-3393683511-3463148672-371912004-1001) from address LocalHost (Using LRPC) running in the application container Microsoft.Windows.ShellExperienceHost_10.0.19041.1949_neutral_neutral_cw5n1h2txyewy SID (S-1-15-2-155514346-2573954481-755741238-1654018636-1233331829-3075935687-2861478708). This security permission can be modified using the Component Services administrative tool."
+Warning,3/24/2023 5:17:30 AM,Microsoft-Windows-DNS-Client,1014,(1014),Name resolution for the name wpad timed out after none of the configured DNS servers responded.
+Warning,3/24/2023 5:07:23 AM,Microsoft-Windows-DNS-Client,1014,(1014),Name resolution for the name wpad timed out after none of the configured DNS servers responded.
+Warning,3/24/2023 4:55:09 AM,Microsoft-Windows-DistributedCOM,10016,None,"The machine-default permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{C2F03A33-21F5-47FA-B4BB-156362A2F239}
+ and APPID 
+{316CDED5-E4AE-4B15-9113-7055D84DCC97}
+ to the user DESKTOP-887GK2L\CyberJunkie SID (S-1-5-21-3393683511-3463148672-371912004-1001) from address LocalHost (Using LRPC) running in the application container Microsoft.Windows.ShellExperienceHost_10.0.19041.1949_neutral_neutral_cw5n1h2txyewy SID (S-1-15-2-155514346-2573954481-755741238-1654018636-1233331829-3075935687-2861478708). This security permission can be modified using the Component Services administrative tool."
+Information,3/24/2023 4:47:50 AM,Service Control Manager,7040,None,The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start.
+Information,3/24/2023 4:45:52 AM,Microsoft-Windows-Kernel-General,1,(5),"The system time has changed to ‎2023‎-‎03‎-‎24T11:45:52.701366900Z from ‎2023‎-‎03‎-‎24T11:45:52.701598800Z.
+
+Change Reason: An application or system component changed the time.
+Process: '\Device\HarddiskVolume3\Windows\System32\svchost.exe' (PID 7344)."
+Information,3/24/2023 4:45:52 AM,Microsoft-Windows-Kernel-General,24,(11),The time zone information was refreshed with exit reason 0. Current time zone bias is 420.
+Information,3/24/2023 4:45:52 AM,Microsoft-Windows-Time-Service,35,None,"The time service is now synchronizing the system time with the time source time.windows.com,0x9 (ntp.m|0x9|0.0.0.0:123->40.119.148.38:123) with reference id 647264040. Current local stratum number is 4."
+Information,3/24/2023 4:45:52 AM,Microsoft-Windows-Kernel-General,1,(5),"The system time has changed to ‎2023‎-‎03‎-‎24T11:45:52.700584500Z from ‎2023‎-‎03‎-‎24T11:45:51.682573000Z.
+
+Change Reason: An application or system component changed the time.
+Process: '\Device\HarddiskVolume3\Windows\System32\svchost.exe' (PID 7344)."
+Information,3/24/2023 4:45:52 AM,Microsoft-Windows-Kernel-General,24,(11),The time zone information was refreshed with exit reason 0. Current time zone bias is 420.
+Warning,3/24/2023 4:45:44 AM,Microsoft-Windows-DNS-Client,1014,(1014),Name resolution for the name wpad timed out after none of the configured DNS servers responded.
+Information,3/24/2023 4:45:35 AM,Microsoft-Windows-Time-Service,37,None,"The time provider NtpClient is currently receiving valid time data from time.windows.com,0x9 (ntp.m|0x9|0.0.0.0:123->40.119.148.38:123)."
+Information,3/24/2023 4:45:34 AM,Service Control Manager,7040,None,The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start.
+Information,3/24/2023 4:45:34 AM,Microsoft-Windows-Kernel-General,1,(5),"The system time has changed to ‎2023‎-‎03‎-‎24T11:45:34.276000000Z from ‎2023‎-‎03‎-‎23T22:03:45.108431500Z.
+
+Change Reason: An application or system component changed the time.
+Process: '\Device\HarddiskVolume3\Program Files\VMware\VMware Tools\vmtoolsd.exe' (PID 2924)."
+Information,3/24/2023 4:45:34 AM,Microsoft-Windows-Kernel-General,24,(11),The time zone information was refreshed with exit reason 0. Current time zone bias is 420.
+Warning,3/23/2023 2:57:30 PM,Microsoft-Windows-DNS-Client,1014,(1014),Name resolution for the name wpad timed out after none of the configured DNS servers responded.
+Warning,3/23/2023 2:46:34 PM,Microsoft-Windows-DNS-Client,1014,(1014),Name resolution for the name wpad timed out after none of the configured DNS servers responded.
+Warning,3/23/2023 2:27:09 PM,Microsoft-Windows-DNS-Client,1014,(1014),Name resolution for the name wpad timed out after none of the configured DNS servers responded.
+Information,3/23/2023 2:18:58 PM,Service Control Manager,7045,None,"A service was installed in the system.
+
+Service Name:  MpKslb30949f3
+Service File Name:  C:\ProgramData\Microsoft\Windows Defender\Definition Updates\{9C3CAFF2-B1A1-4BA4-A844-2658709EF72A}\MpKslDrv.sys
+Service Type:  kernel mode driver
+Service Start Type:  demand start
+Service Account:  "
+Information,3/23/2023 2:18:58 PM,Service Control Manager,7045,None,"A service was installed in the system.
+
+Service Name:  KProcessHacker3
+Service File Name:  C:\Program Files\Process Hacker 2\kprocesshacker.sys
+Service Type:  kernel mode driver
+Service Start Type:  demand start
+Service Account:  "
+Warning,3/23/2023 2:17:02 PM,Microsoft-Windows-DNS-Client,1014,(1014),Name resolution for the name wpad timed out after none of the configured DNS servers responded.
+Information,3/23/2023 1:55:57 PM,Microsoft-Windows-WindowsUpdateClient,19,Windows Update Agent,Installation Successful: Windows successfully installed the following update: Update for Microsoft Defender Antivirus antimalware platform - KB4052623 (Version 4.18.2302.7)
+Information,3/23/2023 1:55:54 PM,Microsoft-Windows-FilterManager,6,None,"File System Filter 'WdFilter' (10.0, ‎2012‎-‎02‎-‎25T07:53:43.000000000Z) has successfully loaded and registered with Filter Manager."
+Information,3/23/2023 1:55:51 PM,Microsoft-Windows-FilterManager,1,None,"File System Filter 'WdFilter' (Version 10.0, ‎2037‎-‎07‎-‎31T18:01:12.000000000Z) unloaded successfully."
+Information,3/23/2023 1:55:48 PM,Microsoft-Windows-WindowsUpdateClient,43,Windows Update Agent,Installation Started: Windows has started installing the following update: Update for Microsoft Defender Antivirus antimalware platform - KB4052623 (Version 4.18.2302.7)
+Information,3/23/2023 1:55:47 PM,Microsoft-Windows-WindowsUpdateClient,19,Windows Update Agent,Installation Successful: Windows successfully installed the following update: Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.385.924.0)
+Information,3/23/2023 1:55:43 PM,Microsoft-Windows-WindowsUpdateClient,43,Windows Update Agent,Installation Started: Windows has started installing the following update: Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.385.924.0)
+Information,3/23/2023 1:55:43 PM,Microsoft-Windows-WindowsUpdateClient,44,Windows Update Agent,Windows Update started downloading an update.
+Information,3/23/2023 1:55:43 PM,Microsoft-Windows-WindowsUpdateClient,44,Windows Update Agent,Windows Update started downloading an update.
+Warning,3/23/2023 1:55:24 PM,Microsoft-Windows-DNS-Client,1014,(1014),Name resolution for the name wpad timed out after none of the configured DNS servers responded.
+Information,3/23/2023 1:55:14 PM,Microsoft-Windows-Kernel-General,1,(5),"The system time has changed to ‎2023‎-‎03‎-‎23T20:55:14.277000000Z from ‎2023‎-‎03‎-‎23T19:23:42.795639100Z.
+
+Change Reason: An application or system component changed the time.
+Process: '\Device\HarddiskVolume3\Program Files\VMware\VMware Tools\vmtoolsd.exe' (PID 2924)."
+Information,3/23/2023 1:55:14 PM,Microsoft-Windows-Kernel-General,24,(11),The time zone information was refreshed with exit reason 0. Current time zone bias is 420.
+Information,3/23/2023 12:18:46 PM,Display,4107,None,A caller specified the SDC_FORCE_MODE_ENUMERATION flag in a call to the SetDisplayConfig() API
+Information,3/23/2023 12:15:12 PM,Display,4107,None,A caller specified the SDC_FORCE_MODE_ENUMERATION flag in a call to the SetDisplayConfig() API
+Warning,3/23/2023 12:14:27 PM,Microsoft-Windows-DNS-Client,1014,(1014),Name resolution for the name wpad timed out after none of the configured DNS servers responded.
+Warning,3/23/2023 12:04:20 PM,Microsoft-Windows-DNS-Client,1014,(1014),Name resolution for the name wpad timed out after none of the configured DNS servers responded.
+Information,3/23/2023 12:00:00 PM,EventLog,6013,None,The system uptime is 20712 seconds.
+Information,3/23/2023 11:51:13 AM,Microsoft-Windows-WindowsUpdateClient,19,Windows Update Agent,Installation Successful: Windows successfully installed the following update: 9PJPW5LDXLZ5-PythonSoftwareFoundation.Python.3.10
+Information,3/23/2023 11:51:12 AM,Microsoft-Windows-WindowsUpdateClient,43,Windows Update Agent,Installation Started: Windows has started installing the following update: 9PJPW5LDXLZ5-PythonSoftwareFoundation.Python.3.10
+Information,3/23/2023 11:50:53 AM,Microsoft-Windows-WindowsUpdateClient,44,Windows Update Agent,Windows Update started downloading an update.
+Information,3/23/2023 11:50:22 AM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\Users\CyberJunkie\AppData\Local\Packages\Microsoft.DesktopAppInstaller_8wekyb3d8bbwe\Settings\settings.dat was cleared updating 1 keys and creating 1 modified pages.
+Information,3/23/2023 11:45:04 AM,Service Control Manager,7045,None,"A service was installed in the system.
+
+Service Name:  Mozilla Maintenance Service
+Service File Name:  ""C:\Program Files (x86)\Mozilla Maintenance Service\maintenanceservice.exe""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  LocalSystem"
+Information,3/23/2023 11:42:54 AM,Microsoft-Windows-Time-Service,35,None,"The time service is now synchronizing the system time with the time source time.windows.com,0x9 (ntp.m|0x9|0.0.0.0:123->20.101.57.9:123) with reference id 154756372. Current local stratum number is 4."
+Warning,3/23/2023 11:42:48 AM,Microsoft-Windows-DNS-Client,1014,(1014),Name resolution for the name wpad timed out after none of the configured DNS servers responded.
+Information,3/23/2023 11:42:39 AM,Microsoft-Windows-Time-Service,37,None,"The time provider NtpClient is currently receiving valid time data from time.windows.com,0x9 (ntp.m|0x9|0.0.0.0:123->20.101.57.9:123)."
+Information,3/23/2023 11:42:37 AM,Microsoft-Windows-Kernel-General,1,(5),"The system time has changed to ‎2023‎-‎03‎-‎23T18:42:37.751000000Z from ‎2023‎-‎03‎-‎23T14:09:01.667873400Z.
+
+Change Reason: An application or system component changed the time.
+Process: '\Device\HarddiskVolume3\Program Files\VMware\VMware Tools\vmtoolsd.exe' (PID 2924)."
+Information,3/23/2023 11:42:37 AM,Microsoft-Windows-Kernel-General,24,(11),The time zone information was refreshed with exit reason 0. Current time zone bias is 420.
+Warning,3/23/2023 7:01:27 AM,Microsoft-Windows-DNS-Client,1014,(1014),Name resolution for the name wpad timed out after none of the configured DNS servers responded.
+Information,3/23/2023 6:46:12 AM,Service Control Manager,7040,None,The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start.
+Warning,3/23/2023 6:44:22 AM,Microsoft-Windows-DistributedCOM,10016,None,"The machine-default permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{C2F03A33-21F5-47FA-B4BB-156362A2F239}
+ and APPID 
+{316CDED5-E4AE-4B15-9113-7055D84DCC97}
+ to the user DESKTOP-887GK2L\CyberJunkie SID (S-1-5-21-3393683511-3463148672-371912004-1001) from address LocalHost (Using LRPC) running in the application container Microsoft.Windows.ShellExperienceHost_10.0.19041.1949_neutral_neutral_cw5n1h2txyewy SID (S-1-15-2-155514346-2573954481-755741238-1654018636-1233331829-3075935687-2861478708). This security permission can be modified using the Component Services administrative tool."
+Warning,3/23/2023 6:43:58 AM,Microsoft-Windows-DNS-Client,1014,(1014),Name resolution for the name wpad timed out after none of the configured DNS servers responded.
+Information,3/23/2023 6:43:52 AM,Service Control Manager,7040,None,The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start.
+Warning,3/23/2023 6:31:06 AM,Microsoft-Windows-DNS-Client,1014,(1014),Name resolution for the name wpad timed out after none of the configured DNS servers responded.
+Warning,3/23/2023 6:20:59 AM,Microsoft-Windows-DNS-Client,1014,(1014),Name resolution for the name wpad timed out after none of the configured DNS servers responded.
+Warning,3/23/2023 6:00:45 AM,Microsoft-Windows-DNS-Client,1014,(1014),Name resolution for the name wpad timed out after none of the configured DNS servers responded.
+Warning,3/23/2023 5:50:38 AM,Microsoft-Windows-DNS-Client,1014,(1014),Name resolution for the name wpad timed out after none of the configured DNS servers responded.
+Warning,3/23/2023 5:30:24 AM,Microsoft-Windows-DNS-Client,1014,(1014),Name resolution for the name wpad timed out after none of the configured DNS servers responded.
+Warning,3/23/2023 5:20:17 AM,Microsoft-Windows-DNS-Client,1014,(1014),Name resolution for the name wpad timed out after none of the configured DNS servers responded.
+Warning,3/23/2023 5:11:53 AM,Microsoft-Windows-DistributedCOM,10016,None,"The machine-default permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{C2F03A33-21F5-47FA-B4BB-156362A2F239}
+ and APPID 
+{316CDED5-E4AE-4B15-9113-7055D84DCC97}
+ to the user DESKTOP-887GK2L\CyberJunkie SID (S-1-5-21-3393683511-3463148672-371912004-1001) from address LocalHost (Using LRPC) running in the application container Microsoft.Windows.ShellExperienceHost_10.0.19041.1949_neutral_neutral_cw5n1h2txyewy SID (S-1-15-2-155514346-2573954481-755741238-1654018636-1233331829-3075935687-2861478708). This security permission can be modified using the Component Services administrative tool."
+Warning,3/23/2023 5:10:32 AM,Microsoft-Windows-DistributedCOM,10016,None,"The machine-default permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{C2F03A33-21F5-47FA-B4BB-156362A2F239}
+ and APPID 
+{316CDED5-E4AE-4B15-9113-7055D84DCC97}
+ to the user DESKTOP-887GK2L\CyberJunkie SID (S-1-5-21-3393683511-3463148672-371912004-1001) from address LocalHost (Using LRPC) running in the application container Microsoft.Windows.ShellExperienceHost_10.0.19041.1949_neutral_neutral_cw5n1h2txyewy SID (S-1-15-2-155514346-2573954481-755741238-1654018636-1233331829-3075935687-2861478708). This security permission can be modified using the Component Services administrative tool."

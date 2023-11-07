@@ -1,0 +1,853 @@
+﻿Level,Date and Time,Source,Event ID,Task Category
+Information,8/27/2023 4:36:02 AM,Microsoft-Windows-Ntfs,158,None,"NTFS metadata statistics for volume:
+
+           Volume Id: {6a08319f-b3d9-458f-bb36-be49a5ed1803}
+           Volume name: \\?\Volume{6a08319f-b3d9-458f-bb36-be49a5ed1803}
+
+           UserFileReads: 5
+           UserFileReadBytes: 20480
+           UserDiskReads: 5
+           UserFileWrites: 0
+           UserFileWriteBytes: 0
+           UserDiskWrites: 0
+
+           MetaDataReads: 13
+           MetaDataReadBytes: 221184
+           MetaDataDiskReads: 14
+           MetaDataWrites: 3
+           MetaDataWriteBytes: 12288
+           MetaDataDiskWrites: 4
+
+           MftReads: 6
+           MftReadBytes: 53248
+           MftWrites: 3
+           MftWriteBytes: 12288
+           Mft2Writes: 0
+           Mft2WriteBytes: 0
+           RootIndexReads: 0
+           RootIndexReadBytes: 0
+           RootIndexWrites: 0
+           RootIndexWriteBytes: 0
+           BitmapReads: 1
+           BitmapReadBytes: 16384
+           BitmapWrites: 0
+           BitmapWriteBytes: 0
+           MftBitmapReads: 1
+           MftBitmapReadBytes: 4096
+           MftBitmapWrites: 0
+           MftBitmapWriteBytes: 0
+           UserIndexReads: 1
+           UserIndexReadBytes: 4096
+           UserIndexWrites: 1
+           UserIndexWriteBytes: 4096
+           LogFileReads: 8
+           LogFileReadBytes: 32768
+           LogFileWrites: 21
+           LogFileWriteBytes: 86016
+           LogFileFull: 0
+           LogFileFullReasons:
+                     LF_LOG_SPACE: 0
+                     LF_DIRTY_PAGES: 0
+                     LF_OPEN_ATTRIBUTES: 0
+                     LF_TRANSACTION_DRAIN: 0
+                     LF_FASTIO_CALLBACK: 0
+                     LF_DEALLOCATED_CLUSTERS: 0
+                     LF_DEALLOCATED_CLUSTERS_MEM: 0
+                     LF_RECORD_STACK_CHECK: 0
+                     LF_DISMOUNT: 0
+                     LF_COMPRESSION: 0
+                     LF_SNAPSHOT: 0
+                     LF_MOUNT: 0
+                     LF_SHUTDOWN: 0
+                     LF_RECURSIVE_COMPRESSION: 0
+                     LF_TESTING: 0
+
+           DiskResourceFailure: 0
+           VolumeTrimCount: 0
+                     VolumeTrimTime (ms): 0
+                     VolumeTrimSize (KB): 0
+                     AvgVolumeTrimTime (ms): 0
+                     AvgVolumeTrimSize (KB): 0
+           VolumeTrimSkippedCount: 0
+                     VolumeTrimSkippedSize (KB): 0
+           FileLevelTrimCount: 0
+                     FileLevelTrimTime (ms): 0
+                     FileLevelTrimSize (KB): 0
+                     AvgFileLevelTrimTime (ms): 0
+                     AvgFileLevelTrimSize (KB): 0
+           NtfsFillStatInfoFromMftRecordCalledCount: 0
+           NtfsFillStatInfoFromMftRecordBailedBecauseOfAttributeListCount: 0
+           NtfsFillStatInfoFromMftRecordBailedBecauseOfNonResReparsePointCount: 0
+"
+Information,8/27/2023 4:36:02 AM,Microsoft-Windows-Ntfs,158,None,"NTFS metadata statistics for volume:
+
+           Volume Id: {9e6e0dbd-1abe-4dab-b1bd-57e7f6016c0e}
+           Volume name: C:
+
+           UserFileReads: 48763
+           UserFileReadBytes: 1251522048
+           UserDiskReads: 48818
+           UserFileWrites: 1949
+           UserFileWriteBytes: 36184064
+           UserDiskWrites: 2063
+
+           MetaDataReads: 8250
+           MetaDataReadBytes: 35614720
+           MetaDataDiskReads: 10587
+           MetaDataWrites: 3081
+           MetaDataWriteBytes: 17313792
+           MetaDataDiskWrites: 4099
+
+           MftReads: 7812
+           MftReadBytes: 32026624
+           MftWrites: 2837
+           MftWriteBytes: 14934016
+           Mft2Writes: 0
+           Mft2WriteBytes: 0
+           RootIndexReads: 0
+           RootIndexReadBytes: 0
+           RootIndexWrites: 0
+           RootIndexWriteBytes: 0
+           BitmapReads: 1
+           BitmapReadBytes: 634880
+           BitmapWrites: 204
+           BitmapWriteBytes: 1662976
+           MftBitmapReads: 2
+           MftBitmapReadBytes: 77824
+           MftBitmapWrites: 13
+           MftBitmapWriteBytes: 77824
+           UserIndexReads: 2470
+           UserIndexReadBytes: 10330112
+           UserIndexWrites: 987
+           UserIndexWriteBytes: 5599232
+           LogFileReads: 8
+           LogFileReadBytes: 32768
+           LogFileWrites: 1225
+           LogFileWriteBytes: 18116608
+           LogFileFull: 0
+           LogFileFullReasons:
+                     LF_LOG_SPACE: 0
+                     LF_DIRTY_PAGES: 0
+                     LF_OPEN_ATTRIBUTES: 0
+                     LF_TRANSACTION_DRAIN: 0
+                     LF_FASTIO_CALLBACK: 0
+                     LF_DEALLOCATED_CLUSTERS: 0
+                     LF_DEALLOCATED_CLUSTERS_MEM: 0
+                     LF_RECORD_STACK_CHECK: 0
+                     LF_DISMOUNT: 0
+                     LF_COMPRESSION: 0
+                     LF_SNAPSHOT: 0
+                     LF_MOUNT: 0
+                     LF_SHUTDOWN: 0
+                     LF_RECURSIVE_COMPRESSION: 0
+                     LF_TESTING: 0
+
+           DiskResourceFailure: 0
+           VolumeTrimCount: 72
+                     VolumeTrimTime (ms): 643
+                     VolumeTrimSize (KB): 163592
+                     AvgVolumeTrimTime (ms): 8
+                     AvgVolumeTrimSize (KB): 2272
+           VolumeTrimSkippedCount: 0
+                     VolumeTrimSkippedSize (KB): 0
+           FileLevelTrimCount: 2
+                     FileLevelTrimTime (ms): 252
+                     FileLevelTrimSize (KB): 737280
+                     AvgFileLevelTrimTime (ms): 126
+                     AvgFileLevelTrimSize (KB): 368640
+           NtfsFillStatInfoFromMftRecordCalledCount: 0
+           NtfsFillStatInfoFromMftRecordBailedBecauseOfAttributeListCount: 0
+           NtfsFillStatInfoFromMftRecordBailedBecauseOfNonResReparsePointCount: 0
+"
+Information,8/27/2023 4:22:13 AM,Microsoft-Windows-Ntfs,501,None,"A process has deleted a USN journal on a volume.
+
+           Process: SearchIndexer.
+           Volume Id: {9e6e0dbd-1abe-4dab-b1bd-57e7f6016c0e}
+           Volume Name: C:
+           Journal Id: %5
+           Current USN: %6
+"
+Information,8/27/2023 4:20:55 AM,Microsoft-Windows-Ntfs,142,None,"Summary of disk space usage, since last event:
+
+           Lowest free space in bytes: 79261696
+           Highest free space in bytes: 79261696
+           Page file size in bytes: 0
+           Volume guid: {6a08319f-b3d9-458f-bb36-be49a5ed1803}
+           Volume name: \\?\Volume{6a08319f-b3d9-458f-bb36-be49a5ed1803}
+           Is boot volume: false
+"
+Information,8/27/2023 4:20:55 AM,Microsoft-Windows-Ntfs,142,None,"Summary of disk space usage, since last event:
+
+           Lowest free space in bytes: 1758945280
+           Highest free space in bytes: 1863823360
+           Page file size in bytes: 0
+           Volume guid: {9e6e0dbd-1abe-4dab-b1bd-57e7f6016c0e}
+           Volume name: C:
+           Is boot volume: true
+"
+Information,8/27/2023 4:20:51 AM,Microsoft-Windows-Ntfs,145,None,"IO latency summary common data for volume:
+
+           Volume Id: {6a08319f-b3d9-458f-bb36-be49a5ed1803}
+           Volume name: \\?\Volume{6a08319f-b3d9-458f-bb36-be49a5ed1803}
+           Is boot volume: false
+
+           Device GUID: {49184303-7aa3-41d6-4ca4-bd365e5963b9}
+           Device manufacturer: VMware  
+           Device model: Virtual disk    
+           Device revision: 2.0 
+           Device serial number: 6000c29360d8134fde32dbf793114325
+           Bus type: SAS
+
+           Adapter serial number: 
+
+           Max Acceptable IO Latency: 30000 ms
+
+           Read/Write latency buckets (ns): [5000000, 30000000, 100000000, 0, 0, 0, 0]
+           Trim latency buckets (ns): [10000000, 50000000, 100000000, 0, 0, 0, 0]
+           Flush latency buckets (ns): [10000000, 50000000, 100000000, 0, 0, 0, 0]
+"
+Information,8/27/2023 4:20:50 AM,Microsoft-Windows-Ntfs,145,None,"IO latency summary common data for volume:
+
+           Volume Id: {9e6e0dbd-1abe-4dab-b1bd-57e7f6016c0e}
+           Volume name: C:
+           Is boot volume: true
+
+           Device GUID: {49184303-7aa3-41d6-4ca4-bd365e5963b9}
+           Device manufacturer: VMware  
+           Device model: Virtual disk    
+           Device revision: 2.0 
+           Device serial number: 6000c29360d8134fde32dbf793114325
+           Bus type: SAS
+
+           Adapter serial number: 
+
+           Max Acceptable IO Latency: 30000 ms
+
+           Read/Write latency buckets (ns): [5000000, 30000000, 100000000, 0, 0, 0, 0]
+           Trim latency buckets (ns): [10000000, 50000000, 100000000, 0, 0, 0, 0]
+           Flush latency buckets (ns): [10000000, 50000000, 100000000, 0, 0, 0, 0]
+"
+Information,8/27/2023 4:07:51 AM,Microsoft-Windows-Ntfs,158,None,"NTFS metadata statistics for volume:
+
+           Volume Id: {6a08319f-b3d9-458f-bb36-be49a5ed1803}
+           Volume name: \\?\Volume{6a08319f-b3d9-458f-bb36-be49a5ed1803}
+
+           UserFileReads: 5
+           UserFileReadBytes: 20480
+           UserDiskReads: 5
+           UserFileWrites: 0
+           UserFileWriteBytes: 0
+           UserDiskWrites: 0
+
+           MetaDataReads: 13
+           MetaDataReadBytes: 221184
+           MetaDataDiskReads: 14
+           MetaDataWrites: 2
+           MetaDataWriteBytes: 8192
+           MetaDataDiskWrites: 3
+
+           MftReads: 6
+           MftReadBytes: 53248
+           MftWrites: 2
+           MftWriteBytes: 8192
+           Mft2Writes: 0
+           Mft2WriteBytes: 0
+           RootIndexReads: 0
+           RootIndexReadBytes: 0
+           RootIndexWrites: 0
+           RootIndexWriteBytes: 0
+           BitmapReads: 1
+           BitmapReadBytes: 16384
+           BitmapWrites: 0
+           BitmapWriteBytes: 0
+           MftBitmapReads: 1
+           MftBitmapReadBytes: 4096
+           MftBitmapWrites: 0
+           MftBitmapWriteBytes: 0
+           UserIndexReads: 1
+           UserIndexReadBytes: 4096
+           UserIndexWrites: 1
+           UserIndexWriteBytes: 4096
+           LogFileReads: 8
+           LogFileReadBytes: 32768
+           LogFileWrites: 19
+           LogFileWriteBytes: 77824
+           LogFileFull: 0
+           LogFileFullReasons:
+                     LF_LOG_SPACE: 0
+                     LF_DIRTY_PAGES: 0
+                     LF_OPEN_ATTRIBUTES: 0
+                     LF_TRANSACTION_DRAIN: 0
+                     LF_FASTIO_CALLBACK: 0
+                     LF_DEALLOCATED_CLUSTERS: 0
+                     LF_DEALLOCATED_CLUSTERS_MEM: 0
+                     LF_RECORD_STACK_CHECK: 0
+                     LF_DISMOUNT: 0
+                     LF_COMPRESSION: 0
+                     LF_SNAPSHOT: 0
+                     LF_MOUNT: 0
+                     LF_SHUTDOWN: 0
+                     LF_RECURSIVE_COMPRESSION: 0
+                     LF_TESTING: 0
+
+           DiskResourceFailure: 0
+           VolumeTrimCount: 0
+                     VolumeTrimTime (ms): 0
+                     VolumeTrimSize (KB): 0
+                     AvgVolumeTrimTime (ms): 0
+                     AvgVolumeTrimSize (KB): 0
+           VolumeTrimSkippedCount: 0
+                     VolumeTrimSkippedSize (KB): 0
+           FileLevelTrimCount: 0
+                     FileLevelTrimTime (ms): 0
+                     FileLevelTrimSize (KB): 0
+                     AvgFileLevelTrimTime (ms): 0
+                     AvgFileLevelTrimSize (KB): 0
+           NtfsFillStatInfoFromMftRecordCalledCount: 0
+           NtfsFillStatInfoFromMftRecordBailedBecauseOfAttributeListCount: 0
+           NtfsFillStatInfoFromMftRecordBailedBecauseOfNonResReparsePointCount: 0
+"
+Information,8/27/2023 4:07:51 AM,Microsoft-Windows-Ntfs,158,None,"NTFS metadata statistics for volume:
+
+           Volume Id: {9e6e0dbd-1abe-4dab-b1bd-57e7f6016c0e}
+           Volume name: C:
+
+           UserFileReads: 50099
+           UserFileReadBytes: 1255545344
+           UserDiskReads: 50056
+           UserFileWrites: 2919
+           UserFileWriteBytes: 46108672
+           UserDiskWrites: 2857
+
+           MetaDataReads: 8353
+           MetaDataReadBytes: 36282368
+           MetaDataDiskReads: 10612
+           MetaDataWrites: 2424
+           MetaDataWriteBytes: 14594048
+           MetaDataDiskWrites: 3109
+
+           MftReads: 7861
+           MftReadBytes: 32227328
+           MftWrites: 2132
+           MftWriteBytes: 11804672
+           Mft2Writes: 0
+           Mft2WriteBytes: 0
+           RootIndexReads: 0
+           RootIndexReadBytes: 0
+           RootIndexWrites: 0
+           RootIndexWriteBytes: 0
+           BitmapReads: 1
+           BitmapReadBytes: 634880
+           BitmapWrites: 243
+           BitmapWriteBytes: 1863680
+           MftBitmapReads: 2
+           MftBitmapReadBytes: 77824
+           MftBitmapWrites: 14
+           MftBitmapWriteBytes: 90112
+           UserIndexReads: 2739
+           UserIndexReadBytes: 11440128
+           UserIndexWrites: 979
+           UserIndexWriteBytes: 5312512
+           LogFileReads: 8
+           LogFileReadBytes: 32768
+           LogFileWrites: 1322
+           LogFileWriteBytes: 20922368
+           LogFileFull: 0
+           LogFileFullReasons:
+                     LF_LOG_SPACE: 0
+                     LF_DIRTY_PAGES: 0
+                     LF_OPEN_ATTRIBUTES: 0
+                     LF_TRANSACTION_DRAIN: 0
+                     LF_FASTIO_CALLBACK: 0
+                     LF_DEALLOCATED_CLUSTERS: 0
+                     LF_DEALLOCATED_CLUSTERS_MEM: 0
+                     LF_RECORD_STACK_CHECK: 0
+                     LF_DISMOUNT: 0
+                     LF_COMPRESSION: 0
+                     LF_SNAPSHOT: 0
+                     LF_MOUNT: 0
+                     LF_SHUTDOWN: 0
+                     LF_RECURSIVE_COMPRESSION: 0
+                     LF_TESTING: 0
+
+           DiskResourceFailure: 0
+           VolumeTrimCount: 81
+                     VolumeTrimTime (ms): 814
+                     VolumeTrimSize (KB): 75284
+                     AvgVolumeTrimTime (ms): 10
+                     AvgVolumeTrimSize (KB): 929
+           VolumeTrimSkippedCount: 0
+                     VolumeTrimSkippedSize (KB): 0
+           FileLevelTrimCount: 2
+                     FileLevelTrimTime (ms): 252
+                     FileLevelTrimSize (KB): 737280
+                     AvgFileLevelTrimTime (ms): 126
+                     AvgFileLevelTrimSize (KB): 368640
+           NtfsFillStatInfoFromMftRecordCalledCount: 0
+           NtfsFillStatInfoFromMftRecordBailedBecauseOfAttributeListCount: 0
+           NtfsFillStatInfoFromMftRecordBailedBecauseOfNonResReparsePointCount: 0
+"
+Information,8/27/2023 3:54:05 AM,Microsoft-Windows-Ntfs,501,None,"A process has deleted a USN journal on a volume.
+
+           Process: SearchIndexer.
+           Volume Id: {9e6e0dbd-1abe-4dab-b1bd-57e7f6016c0e}
+           Volume Name: C:
+           Journal Id: %5
+           Current USN: %6
+"
+Information,8/27/2023 3:52:45 AM,Microsoft-Windows-Ntfs,142,None,"Summary of disk space usage, since last event:
+
+           Lowest free space in bytes: 79261696
+           Highest free space in bytes: 79261696
+           Page file size in bytes: 0
+           Volume guid: {6a08319f-b3d9-458f-bb36-be49a5ed1803}
+           Volume name: \\?\Volume{6a08319f-b3d9-458f-bb36-be49a5ed1803}
+           Is boot volume: false
+"
+Information,8/27/2023 3:52:45 AM,Microsoft-Windows-Ntfs,142,None,"Summary of disk space usage, since last event:
+
+           Lowest free space in bytes: 1762971648
+           Highest free space in bytes: 1795211264
+           Page file size in bytes: 0
+           Volume guid: {9e6e0dbd-1abe-4dab-b1bd-57e7f6016c0e}
+           Volume name: C:
+           Is boot volume: true
+"
+Information,8/27/2023 3:52:41 AM,Microsoft-Windows-Ntfs,145,None,"IO latency summary common data for volume:
+
+           Volume Id: {6a08319f-b3d9-458f-bb36-be49a5ed1803}
+           Volume name: \\?\Volume{6a08319f-b3d9-458f-bb36-be49a5ed1803}
+           Is boot volume: false
+
+           Device GUID: {49184303-7aa3-41d6-4ca4-bd365e5963b9}
+           Device manufacturer: VMware  
+           Device model: Virtual disk    
+           Device revision: 2.0 
+           Device serial number: 6000c29360d8134fde32dbf793114325
+           Bus type: SAS
+
+           Adapter serial number: 
+
+           Max Acceptable IO Latency: 30000 ms
+
+           Read/Write latency buckets (ns): [5000000, 30000000, 100000000, 0, 0, 0, 0]
+           Trim latency buckets (ns): [10000000, 50000000, 100000000, 0, 0, 0, 0]
+           Flush latency buckets (ns): [10000000, 50000000, 100000000, 0, 0, 0, 0]
+"
+Information,8/27/2023 3:52:40 AM,Microsoft-Windows-Ntfs,145,None,"IO latency summary common data for volume:
+
+           Volume Id: {9e6e0dbd-1abe-4dab-b1bd-57e7f6016c0e}
+           Volume name: C:
+           Is boot volume: true
+
+           Device GUID: {49184303-7aa3-41d6-4ca4-bd365e5963b9}
+           Device manufacturer: VMware  
+           Device model: Virtual disk    
+           Device revision: 2.0 
+           Device serial number: 6000c29360d8134fde32dbf793114325
+           Bus type: SAS
+
+           Adapter serial number: 
+
+           Max Acceptable IO Latency: 30000 ms
+
+           Read/Write latency buckets (ns): [5000000, 30000000, 100000000, 0, 0, 0, 0]
+           Trim latency buckets (ns): [10000000, 50000000, 100000000, 0, 0, 0, 0]
+           Flush latency buckets (ns): [10000000, 50000000, 100000000, 0, 0, 0, 0]
+"
+Information,8/27/2023 3:30:01 AM,Microsoft-Windows-Ntfs,158,None,"NTFS metadata statistics for volume:
+
+           Volume Id: {6a08319f-b3d9-458f-bb36-be49a5ed1803}
+           Volume name: \\?\Volume{6a08319f-b3d9-458f-bb36-be49a5ed1803}
+
+           UserFileReads: 5
+           UserFileReadBytes: 20480
+           UserDiskReads: 5
+           UserFileWrites: 0
+           UserFileWriteBytes: 0
+           UserDiskWrites: 0
+
+           MetaDataReads: 13
+           MetaDataReadBytes: 221184
+           MetaDataDiskReads: 14
+           MetaDataWrites: 3
+           MetaDataWriteBytes: 12288
+           MetaDataDiskWrites: 4
+
+           MftReads: 6
+           MftReadBytes: 53248
+           MftWrites: 3
+           MftWriteBytes: 12288
+           Mft2Writes: 0
+           Mft2WriteBytes: 0
+           RootIndexReads: 0
+           RootIndexReadBytes: 0
+           RootIndexWrites: 0
+           RootIndexWriteBytes: 0
+           BitmapReads: 1
+           BitmapReadBytes: 16384
+           BitmapWrites: 0
+           BitmapWriteBytes: 0
+           MftBitmapReads: 1
+           MftBitmapReadBytes: 4096
+           MftBitmapWrites: 0
+           MftBitmapWriteBytes: 0
+           UserIndexReads: 1
+           UserIndexReadBytes: 4096
+           UserIndexWrites: 1
+           UserIndexWriteBytes: 4096
+           LogFileReads: 8
+           LogFileReadBytes: 32768
+           LogFileWrites: 21
+           LogFileWriteBytes: 86016
+           LogFileFull: 0
+           LogFileFullReasons:
+                     LF_LOG_SPACE: 0
+                     LF_DIRTY_PAGES: 0
+                     LF_OPEN_ATTRIBUTES: 0
+                     LF_TRANSACTION_DRAIN: 0
+                     LF_FASTIO_CALLBACK: 0
+                     LF_DEALLOCATED_CLUSTERS: 0
+                     LF_DEALLOCATED_CLUSTERS_MEM: 0
+                     LF_RECORD_STACK_CHECK: 0
+                     LF_DISMOUNT: 0
+                     LF_COMPRESSION: 0
+                     LF_SNAPSHOT: 0
+                     LF_MOUNT: 0
+                     LF_SHUTDOWN: 0
+                     LF_RECURSIVE_COMPRESSION: 0
+                     LF_TESTING: 0
+
+           DiskResourceFailure: 0
+           VolumeTrimCount: 0
+                     VolumeTrimTime (ms): 0
+                     VolumeTrimSize (KB): 0
+                     AvgVolumeTrimTime (ms): 0
+                     AvgVolumeTrimSize (KB): 0
+           VolumeTrimSkippedCount: 0
+                     VolumeTrimSkippedSize (KB): 0
+           FileLevelTrimCount: 0
+                     FileLevelTrimTime (ms): 0
+                     FileLevelTrimSize (KB): 0
+                     AvgFileLevelTrimTime (ms): 0
+                     AvgFileLevelTrimSize (KB): 0
+           NtfsFillStatInfoFromMftRecordCalledCount: 0
+           NtfsFillStatInfoFromMftRecordBailedBecauseOfAttributeListCount: 0
+           NtfsFillStatInfoFromMftRecordBailedBecauseOfNonResReparsePointCount: 0
+"
+Information,8/27/2023 3:30:01 AM,Microsoft-Windows-Ntfs,158,None,"NTFS metadata statistics for volume:
+
+           Volume Id: {9e6e0dbd-1abe-4dab-b1bd-57e7f6016c0e}
+           Volume name: C:
+
+           UserFileReads: 72544
+           UserFileReadBytes: 1859010048
+           UserDiskReads: 72828
+           UserFileWrites: 4085
+           UserFileWriteBytes: 100016128
+           UserDiskWrites: 4420
+
+           MetaDataReads: 10497
+           MetaDataReadBytes: 48107520
+           MetaDataDiskReads: 13301
+           MetaDataWrites: 4646
+           MetaDataWriteBytes: 27074560
+           MetaDataDiskWrites: 6155
+
+           MftReads: 9960
+           MftReadBytes: 40824832
+           MftWrites: 4333
+           MftWriteBytes: 23859200
+           Mft2Writes: 0
+           Mft2WriteBytes: 0
+           RootIndexReads: 0
+           RootIndexReadBytes: 0
+           RootIndexWrites: 0
+           RootIndexWriteBytes: 0
+           BitmapReads: 1
+           BitmapReadBytes: 634880
+           BitmapWrites: 272
+           BitmapWriteBytes: 2265088
+           MftBitmapReads: 2
+           MftBitmapReadBytes: 77824
+           MftBitmapWrites: 18
+           MftBitmapWriteBytes: 106496
+           UserIndexReads: 2989
+           UserIndexReadBytes: 12464128
+           UserIndexWrites: 1453
+           UserIndexWriteBytes: 8691712
+           LogFileReads: 8
+           LogFileReadBytes: 32768
+           LogFileWrites: 1732
+           LogFileWriteBytes: 28000256
+           LogFileFull: 0
+           LogFileFullReasons:
+                     LF_LOG_SPACE: 0
+                     LF_DIRTY_PAGES: 0
+                     LF_OPEN_ATTRIBUTES: 0
+                     LF_TRANSACTION_DRAIN: 0
+                     LF_FASTIO_CALLBACK: 0
+                     LF_DEALLOCATED_CLUSTERS: 0
+                     LF_DEALLOCATED_CLUSTERS_MEM: 0
+                     LF_RECORD_STACK_CHECK: 0
+                     LF_DISMOUNT: 0
+                     LF_COMPRESSION: 0
+                     LF_SNAPSHOT: 0
+                     LF_MOUNT: 0
+                     LF_SHUTDOWN: 0
+                     LF_RECURSIVE_COMPRESSION: 0
+                     LF_TESTING: 0
+
+           DiskResourceFailure: 0
+           VolumeTrimCount: 123
+                     VolumeTrimTime (ms): 700
+                     VolumeTrimSize (KB): 132576
+                     AvgVolumeTrimTime (ms): 5
+                     AvgVolumeTrimSize (KB): 1077
+           VolumeTrimSkippedCount: 0
+                     VolumeTrimSkippedSize (KB): 0
+           FileLevelTrimCount: 2
+                     FileLevelTrimTime (ms): 256
+                     FileLevelTrimSize (KB): 737280
+                     AvgFileLevelTrimTime (ms): 128
+                     AvgFileLevelTrimSize (KB): 368640
+           NtfsFillStatInfoFromMftRecordCalledCount: 0
+           NtfsFillStatInfoFromMftRecordBailedBecauseOfAttributeListCount: 0
+           NtfsFillStatInfoFromMftRecordBailedBecauseOfNonResReparsePointCount: 0
+"
+Information,8/27/2023 3:17:27 AM,Microsoft-Windows-Ntfs,501,None,"A process has deleted a USN journal on a volume.
+
+           Process: SearchIndexer.
+           Volume Id: {9e6e0dbd-1abe-4dab-b1bd-57e7f6016c0e}
+           Volume Name: C:
+           Journal Id: %5
+           Current USN: %6
+"
+Information,8/27/2023 3:15:05 AM,Microsoft-Windows-Ntfs,142,None,"Summary of disk space usage, since last event:
+
+           Lowest free space in bytes: 79261696
+           Highest free space in bytes: 79261696
+           Page file size in bytes: 0
+           Volume guid: {6a08319f-b3d9-458f-bb36-be49a5ed1803}
+           Volume name: \\?\Volume{6a08319f-b3d9-458f-bb36-be49a5ed1803}
+           Is boot volume: false
+"
+Information,8/27/2023 3:15:05 AM,Microsoft-Windows-Ntfs,142,None,"Summary of disk space usage, since last event:
+
+           Lowest free space in bytes: 1764515840
+           Highest free space in bytes: 1805672448
+           Page file size in bytes: 0
+           Volume guid: {9e6e0dbd-1abe-4dab-b1bd-57e7f6016c0e}
+           Volume name: C:
+           Is boot volume: true
+"
+Information,8/27/2023 3:15:01 AM,Microsoft-Windows-Ntfs,145,None,"IO latency summary common data for volume:
+
+           Volume Id: {6a08319f-b3d9-458f-bb36-be49a5ed1803}
+           Volume name: \\?\Volume{6a08319f-b3d9-458f-bb36-be49a5ed1803}
+           Is boot volume: false
+
+           Device GUID: {49184303-7aa3-41d6-4ca4-bd365e5963b9}
+           Device manufacturer: VMware  
+           Device model: Virtual disk    
+           Device revision: 2.0 
+           Device serial number: 6000c29360d8134fde32dbf793114325
+           Bus type: SAS
+
+           Adapter serial number: 
+
+           Max Acceptable IO Latency: 30000 ms
+
+           Read/Write latency buckets (ns): [5000000, 30000000, 100000000, 0, 0, 0, 0]
+           Trim latency buckets (ns): [10000000, 50000000, 100000000, 0, 0, 0, 0]
+           Flush latency buckets (ns): [10000000, 50000000, 100000000, 0, 0, 0, 0]
+"
+Information,8/27/2023 3:15:00 AM,Microsoft-Windows-Ntfs,145,None,"IO latency summary common data for volume:
+
+           Volume Id: {9e6e0dbd-1abe-4dab-b1bd-57e7f6016c0e}
+           Volume name: C:
+           Is boot volume: true
+
+           Device GUID: {49184303-7aa3-41d6-4ca4-bd365e5963b9}
+           Device manufacturer: VMware  
+           Device model: Virtual disk    
+           Device revision: 2.0 
+           Device serial number: 6000c29360d8134fde32dbf793114325
+           Bus type: SAS
+
+           Adapter serial number: 
+
+           Max Acceptable IO Latency: 30000 ms
+
+           Read/Write latency buckets (ns): [5000000, 30000000, 100000000, 0, 0, 0, 0]
+           Trim latency buckets (ns): [10000000, 50000000, 100000000, 0, 0, 0, 0]
+           Flush latency buckets (ns): [10000000, 50000000, 100000000, 0, 0, 0, 0]
+"
+Information,8/27/2023 2:30:05 AM,Microsoft-Windows-Ntfs,158,None,"NTFS metadata statistics for volume:
+
+           Volume Id: {6a08319f-b3d9-458f-bb36-be49a5ed1803}
+           Volume name: \\?\Volume{6a08319f-b3d9-458f-bb36-be49a5ed1803}
+
+           UserFileReads: 5
+           UserFileReadBytes: 20480
+           UserDiskReads: 5
+           UserFileWrites: 0
+           UserFileWriteBytes: 0
+           UserDiskWrites: 0
+
+           MetaDataReads: 13
+           MetaDataReadBytes: 221184
+           MetaDataDiskReads: 14
+           MetaDataWrites: 4
+           MetaDataWriteBytes: 16384
+           MetaDataDiskWrites: 5
+
+           MftReads: 6
+           MftReadBytes: 53248
+           MftWrites: 4
+           MftWriteBytes: 16384
+           Mft2Writes: 0
+           Mft2WriteBytes: 0
+           RootIndexReads: 0
+           RootIndexReadBytes: 0
+           RootIndexWrites: 0
+           RootIndexWriteBytes: 0
+           BitmapReads: 1
+           BitmapReadBytes: 16384
+           BitmapWrites: 0
+           BitmapWriteBytes: 0
+           MftBitmapReads: 1
+           MftBitmapReadBytes: 4096
+           MftBitmapWrites: 0
+           MftBitmapWriteBytes: 0
+           UserIndexReads: 1
+           UserIndexReadBytes: 4096
+           UserIndexWrites: 1
+           UserIndexWriteBytes: 4096
+           LogFileReads: 8
+           LogFileReadBytes: 32768
+           LogFileWrites: 22
+           LogFileWriteBytes: 90112
+           LogFileFull: 0
+           LogFileFullReasons:
+                     LF_LOG_SPACE: 0
+                     LF_DIRTY_PAGES: 0
+                     LF_OPEN_ATTRIBUTES: 0
+                     LF_TRANSACTION_DRAIN: 0
+                     LF_FASTIO_CALLBACK: 0
+                     LF_DEALLOCATED_CLUSTERS: 0
+                     LF_DEALLOCATED_CLUSTERS_MEM: 0
+                     LF_RECORD_STACK_CHECK: 0
+                     LF_DISMOUNT: 0
+                     LF_COMPRESSION: 0
+                     LF_SNAPSHOT: 0
+                     LF_MOUNT: 0
+                     LF_SHUTDOWN: 0
+                     LF_RECURSIVE_COMPRESSION: 0
+                     LF_TESTING: 0
+
+           DiskResourceFailure: 0
+           VolumeTrimCount: 0
+                     VolumeTrimTime (ms): 0
+                     VolumeTrimSize (KB): 0
+                     AvgVolumeTrimTime (ms): 0
+                     AvgVolumeTrimSize (KB): 0
+           VolumeTrimSkippedCount: 0
+                     VolumeTrimSkippedSize (KB): 0
+           FileLevelTrimCount: 0
+                     FileLevelTrimTime (ms): 0
+                     FileLevelTrimSize (KB): 0
+                     AvgFileLevelTrimTime (ms): 0
+                     AvgFileLevelTrimSize (KB): 0
+           NtfsFillStatInfoFromMftRecordCalledCount: 0
+           NtfsFillStatInfoFromMftRecordBailedBecauseOfAttributeListCount: 0
+           NtfsFillStatInfoFromMftRecordBailedBecauseOfNonResReparsePointCount: 0
+"
+Information,8/27/2023 2:30:05 AM,Microsoft-Windows-Ntfs,158,None,"NTFS metadata statistics for volume:
+
+           Volume Id: {9e6e0dbd-1abe-4dab-b1bd-57e7f6016c0e}
+           Volume name: C:
+
+           UserFileReads: 63425
+           UserFileReadBytes: 1883709952
+           UserDiskReads: 63198
+           UserFileWrites: 6446
+           UserFileWriteBytes: 1591365632
+           UserDiskWrites: 7111
+
+           MetaDataReads: 12269
+           MetaDataReadBytes: 51843072
+           MetaDataDiskReads: 15597
+           MetaDataWrites: 8680
+           MetaDataWriteBytes: 58130432
+           MetaDataDiskWrites: 10654
+
+           MftReads: 11266
+           MftReadBytes: 46174208
+           MftWrites: 8302
+           MftWriteBytes: 52224000
+           Mft2Writes: 0
+           Mft2WriteBytes: 0
+           RootIndexReads: 0
+           RootIndexReadBytes: 0
+           RootIndexWrites: 0
+           RootIndexWriteBytes: 0
+           BitmapReads: 1
+           BitmapReadBytes: 634880
+           BitmapWrites: 322
+           BitmapWriteBytes: 3231744
+           MftBitmapReads: 2
+           MftBitmapReadBytes: 77824
+           MftBitmapWrites: 19
+           MftBitmapWriteBytes: 151552
+           UserIndexReads: 3952
+           UserIndexReadBytes: 16424960
+           UserIndexWrites: 1935
+           UserIndexWriteBytes: 13406208
+           LogFileReads: 8
+           LogFileReadBytes: 32768
+           LogFileWrites: 2990
+           LogFileWriteBytes: 67592192
+           LogFileFull: 0
+           LogFileFullReasons:
+                     LF_LOG_SPACE: 0
+                     LF_DIRTY_PAGES: 0
+                     LF_OPEN_ATTRIBUTES: 0
+                     LF_TRANSACTION_DRAIN: 0
+                     LF_FASTIO_CALLBACK: 0
+                     LF_DEALLOCATED_CLUSTERS: 0
+                     LF_DEALLOCATED_CLUSTERS_MEM: 0
+                     LF_RECORD_STACK_CHECK: 0
+                     LF_DISMOUNT: 0
+                     LF_COMPRESSION: 0
+                     LF_SNAPSHOT: 0
+                     LF_MOUNT: 0
+                     LF_SHUTDOWN: 0
+                     LF_RECURSIVE_COMPRESSION: 0
+                     LF_TESTING: 0
+
+           DiskResourceFailure: 0
+           VolumeTrimCount: 199
+                     VolumeTrimTime (ms): 5815
+                     VolumeTrimSize (KB): 979516
+                     AvgVolumeTrimTime (ms): 29
+                     AvgVolumeTrimSize (KB): 4922
+           VolumeTrimSkippedCount: 0
+                     VolumeTrimSkippedSize (KB): 0
+           FileLevelTrimCount: 2
+                     FileLevelTrimTime (ms): 453
+                     FileLevelTrimSize (KB): 999424
+                     AvgFileLevelTrimTime (ms): 226
+                     AvgFileLevelTrimSize (KB): 499712
+           NtfsFillStatInfoFromMftRecordCalledCount: 0
+           NtfsFillStatInfoFromMftRecordBailedBecauseOfAttributeListCount: 0
+           NtfsFillStatInfoFromMftRecordBailedBecauseOfNonResReparsePointCount: 0
+"
+Information,8/27/2023 2:16:45 AM,Microsoft-Windows-Ntfs,501,None,"A process has deleted a USN journal on a volume.
+
+           Process: SearchIndexer.
+           Volume Id: {9e6e0dbd-1abe-4dab-b1bd-57e7f6016c0e}
+           Volume Name: C:
+           Journal Id: %5
+           Current USN: %6
+"

@@ -1,5 +1,5 @@
-﻿Level,Date and Time,Source,Event ID,Task Category,
-Information,"11/2/2023, 6:34:31.345 PM",Microsoft-Windows-Security-Auditing,4799,Security Group Management,"A security-enabled local group membership was enumerated.
+﻿Level,Date and Time,Source,Event ID,Task Category
+Information,8/27/2023 4:58:51 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,"A security-enabled local group membership was enumerated.
 
 Subject:
 	Security ID:		SYSTEM
@@ -15,7 +15,7 @@ Group:
 Process Information:
 	Process ID:		0x2324
 	Process Name:		C:\Windows\System32\VSSVC.exe"
-Information,"11/2/2023, 6:34:31.345 PM",Microsoft-Windows-Security-Auditing,4799,Security Group Management,"A security-enabled local group membership was enumerated.
+Information,8/27/2023 4:58:51 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,"A security-enabled local group membership was enumerated.
 
 Subject:
 	Security ID:		SYSTEM
@@ -31,7 +31,7 @@ Group:
 Process Information:
 	Process ID:		0x2324
 	Process Name:		C:\Windows\System32\VSSVC.exe"
-Information,"11/2/2023, 6:34:31.345 PM",Microsoft-Windows-Security-Auditing,4799,Security Group Management,"A security-enabled local group membership was enumerated.
+Information,8/27/2023 4:58:51 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,"A security-enabled local group membership was enumerated.
 
 Subject:
 	Security ID:		SYSTEM
@@ -47,7 +47,7 @@ Group:
 Process Information:
 	Process ID:		0x2324
 	Process Name:		C:\Windows\System32\VSSVC.exe"
-Information,"11/2/2023, 6:34:31.345 PM",Microsoft-Windows-Security-Auditing,4799,Security Group Management,"A security-enabled local group membership was enumerated.
+Information,8/27/2023 4:58:51 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,"A security-enabled local group membership was enumerated.
 
 Subject:
 	Security ID:		SYSTEM
@@ -63,7 +63,7 @@ Group:
 Process Information:
 	Process ID:		0x2324
 	Process Name:		C:\Windows\System32\VSSVC.exe"
-Information,"11/2/2023, 6:34:31.345 PM",Microsoft-Windows-Security-Auditing,4799,Security Group Management,"A security-enabled local group membership was enumerated.
+Information,8/27/2023 4:58:51 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,"A security-enabled local group membership was enumerated.
 
 Subject:
 	Security ID:		SYSTEM
@@ -79,7 +79,7 @@ Group:
 Process Information:
 	Process ID:		0x2324
 	Process Name:		C:\Windows\System32\VSSVC.exe"
-Information,"11/2/2023, 6:34:31.345 PM",Microsoft-Windows-Security-Auditing,4799,Security Group Management,"A security-enabled local group membership was enumerated.
+Information,8/27/2023 4:58:51 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,"A security-enabled local group membership was enumerated.
 
 Subject:
 	Security ID:		SYSTEM
@@ -95,7 +95,7 @@ Group:
 Process Information:
 	Process ID:		0x2324
 	Process Name:		C:\Windows\System32\VSSVC.exe"
-Information,"11/2/2023, 6:34:31.345 PM",Microsoft-Windows-Security-Auditing,4672,Special Logon,"Special privileges assigned to new logon.
+Information,8/27/2023 4:58:50 AM,Microsoft-Windows-Security-Auditing,4672,Special Logon,"Special privileges assigned to new logon.
 
 Subject:
 	Security ID:		SYSTEM
@@ -115,7 +115,7 @@ Privileges:		SeAssignPrimaryTokenPrivilege
 			SeSystemEnvironmentPrivilege
 			SeImpersonatePrivilege
 			SeDelegateSessionUserImpersonatePrivilege"
-Information,"11/2/2023, 6:34:31.345 PM",Microsoft-Windows-Security-Auditing,4624,Logon,"An account was successfully logged on.
+Information,8/27/2023 4:58:50 AM,Microsoft-Windows-Security-Auditing,4624,Logon,"An account was successfully logged on.
 
 Subject:
 	Security ID:		SYSTEM
@@ -174,7 +174,7 @@ The authentication information fields provide detailed information about this sp
 	- Transited services indicate which intermediate services have participated in this logon request.
 	- Package name indicates which sub-protocol was used among the NTLM protocols.
 	- Key length indicates the length of the generated session key. This will be 0 if no session key was requested."
-Information,"11/2/2023, 6:34:31.345 PM",Microsoft-Windows-Security-Auditing,4799,Security Group Management,"A security-enabled local group membership was enumerated.
+Information,8/27/2023 4:58:50 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,"A security-enabled local group membership was enumerated.
 
 Subject:
 	Security ID:		SYSTEM
@@ -190,7 +190,7 @@ Group:
 Process Information:
 	Process ID:		0x2324
 	Process Name:		C:\Windows\System32\VSSVC.exe"
-Information,"11/2/2023, 6:34:31.345 PM",Microsoft-Windows-Security-Auditing,4799,Security Group Management,"A security-enabled local group membership was enumerated.
+Information,8/27/2023 4:58:50 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,"A security-enabled local group membership was enumerated.
 
 Subject:
 	Security ID:		SYSTEM
@@ -206,7 +206,7 @@ Group:
 Process Information:
 	Process ID:		0x2324
 	Process Name:		C:\Windows\System32\VSSVC.exe"
-Information,"11/2/2023, 6:34:31.345 PM",Microsoft-Windows-Security-Auditing,4672,Special Logon,"Special privileges assigned to new logon.
+Information,8/27/2023 4:58:50 AM,Microsoft-Windows-Security-Auditing,4672,Special Logon,"Special privileges assigned to new logon.
 
 Subject:
 	Security ID:		SYSTEM
@@ -226,7 +226,7 @@ Privileges:		SeAssignPrimaryTokenPrivilege
 			SeSystemEnvironmentPrivilege
 			SeImpersonatePrivilege
 			SeDelegateSessionUserImpersonatePrivilege"
-Information,"11/2/2023, 6:34:31.345 PM",Microsoft-Windows-Security-Auditing,4624,Logon,"An account was successfully logged on.
+Information,8/27/2023 4:58:50 AM,Microsoft-Windows-Security-Auditing,4624,Logon,"An account was successfully logged on.
 
 Subject:
 	Security ID:		SYSTEM
@@ -285,7 +285,7 @@ The authentication information fields provide detailed information about this sp
 	- Transited services indicate which intermediate services have participated in this logon request.
 	- Package name indicates which sub-protocol was used among the NTLM protocols.
 	- Key length indicates the length of the generated session key. This will be 0 if no session key was requested."
-Information,"11/2/2023, 6:34:31.345 PM",Microsoft-Windows-Security-Auditing,4672,Special Logon,"Special privileges assigned to new logon.
+Information,8/27/2023 4:58:07 AM,Microsoft-Windows-Security-Auditing,4672,Special Logon,"Special privileges assigned to new logon.
 
 Subject:
 	Security ID:		SYSTEM
@@ -305,7 +305,7 @@ Privileges:		SeAssignPrimaryTokenPrivilege
 			SeSystemEnvironmentPrivilege
 			SeImpersonatePrivilege
 			SeDelegateSessionUserImpersonatePrivilege"
-Information,"11/2/2023, 6:34:31.345 PM",Microsoft-Windows-Security-Auditing,4624,Logon,"An account was successfully logged on.
+Information,8/27/2023 4:58:07 AM,Microsoft-Windows-Security-Auditing,4624,Logon,"An account was successfully logged on.
 
 Subject:
 	Security ID:		SYSTEM
@@ -364,7 +364,7 @@ The authentication information fields provide detailed information about this sp
 	- Transited services indicate which intermediate services have participated in this logon request.
 	- Package name indicates which sub-protocol was used among the NTLM protocols.
 	- Key length indicates the length of the generated session key. This will be 0 if no session key was requested."
-Information,"11/2/2023, 6:34:31.345 PM",Microsoft-Windows-Security-Auditing,4672,Special Logon,"Special privileges assigned to new logon.
+Information,8/27/2023 4:58:00 AM,Microsoft-Windows-Security-Auditing,4672,Special Logon,"Special privileges assigned to new logon.
 
 Subject:
 	Security ID:		SYSTEM
@@ -384,7 +384,7 @@ Privileges:		SeAssignPrimaryTokenPrivilege
 			SeSystemEnvironmentPrivilege
 			SeImpersonatePrivilege
 			SeDelegateSessionUserImpersonatePrivilege"
-Information,"11/2/2023, 6:34:31.345 PM",Microsoft-Windows-Security-Auditing,4624,Logon,"An account was successfully logged on.
+Information,8/27/2023 4:58:00 AM,Microsoft-Windows-Security-Auditing,4624,Logon,"An account was successfully logged on.
 
 Subject:
 	Security ID:		SYSTEM
@@ -443,7 +443,7 @@ The authentication information fields provide detailed information about this sp
 	- Transited services indicate which intermediate services have participated in this logon request.
 	- Package name indicates which sub-protocol was used among the NTLM protocols.
 	- Key length indicates the length of the generated session key. This will be 0 if no session key was requested."
-Information,"11/2/2023, 6:34:31.345 PM",Microsoft-Windows-Security-Auditing,4634,Logoff,"An account was logged off.
+Information,8/27/2023 4:57:57 AM,Microsoft-Windows-Security-Auditing,4634,Logoff,"An account was logged off.
 
 Subject:
 	Security ID:		S-1-5-21-3089243881-3525850343-252262830-1003
@@ -454,3 +454,670 @@ Subject:
 Logon Type:			4
 
 This event is generated when a logon session is destroyed. It may be positively correlated with a logon event using the Logon ID value. Logon IDs are only unique between reboots on the same computer."
+Information,8/27/2023 4:57:56 AM,Microsoft-Windows-Security-Auditing,4624,Logon,"An account was successfully logged on.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		GOVBETA$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Logon Information:
+	Logon Type:		4
+	Restricted Admin Mode:	-
+	Virtual Account:		No
+	Elevated Token:		No
+
+Impersonation Level:		Impersonation
+
+New Logon:
+	Security ID:		S-1-5-21-3089243881-3525850343-252262830-1003
+	Account Name:		jonathan
+	Account Domain:		GOVBETA
+	Logon ID:		0x39770C
+	Linked Logon ID:		0x0
+	Network Account Name:	-
+	Network Account Domain:	-
+	Logon GUID:		{00000000-0000-0000-0000-000000000000}
+
+Process Information:
+	Process ID:		0x4c0
+	Process Name:		C:\Windows\System32\svchost.exe
+
+Network Information:
+	Workstation Name:	GOVBETA
+	Source Network Address:	-
+	Source Port:		-
+
+Detailed Authentication Information:
+	Logon Process:		Advapi  
+	Authentication Package:	Negotiate
+	Transited Services:	-
+	Package Name (NTLM only):	-
+	Key Length:		0
+
+This event is generated when a logon session is created. It is generated on the computer that was accessed.
+
+The subject fields indicate the account on the local system which requested the logon. This is most commonly a service such as the Server service, or a local process such as Winlogon.exe or Services.exe.
+
+The logon type field indicates the kind of logon that occurred. The most common types are 2 (interactive) and 3 (network).
+
+The New Logon fields indicate the account for whom the new logon was created, i.e. the account that was logged on.
+
+The network fields indicate where a remote logon request originated. Workstation name is not always available and may be left blank in some cases.
+
+The impersonation level field indicates the extent to which a process in the logon session can impersonate.
+
+The authentication information fields provide detailed information about this specific logon request.
+	- Logon GUID is a unique identifier that can be used to correlate this event with a KDC event.
+	- Transited services indicate which intermediate services have participated in this logon request.
+	- Package name indicates which sub-protocol was used among the NTLM protocols.
+	- Key length indicates the length of the generated session key. This will be 0 if no session key was requested."
+Information,8/27/2023 4:57:56 AM,Microsoft-Windows-Security-Auditing,4648,Logon,"A logon was attempted using explicit credentials.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		GOVBETA$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+	Logon GUID:		{00000000-0000-0000-0000-000000000000}
+
+Account Whose Credentials Were Used:
+	Account Name:		jonathan
+	Account Domain:		GOVBETA
+	Logon GUID:		{00000000-0000-0000-0000-000000000000}
+
+Target Server:
+	Target Server Name:	localhost
+	Additional Information:	localhost
+
+Process Information:
+	Process ID:		0x4c0
+	Process Name:		C:\Windows\System32\svchost.exe
+
+Network Information:
+	Network Address:	-
+	Port:			-
+
+This event is generated when a process attempts to log on an account by explicitly specifying that account’s credentials.  This most commonly occurs in batch-type configurations such as scheduled tasks, or when using the RUNAS command."
+Information,8/27/2023 4:57:25 AM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-21-3089243881-3525850343-252262830-500
+	Account Name:		Administrator
+	Account Domain:		GOVBETA
+	Logon ID:		0x8641E
+
+User:
+	Security ID:		S-1-5-21-3089243881-3525850343-252262830-500
+	Account Name:		Administrator
+	Account Domain:		GOVBETA
+
+Process Information:
+	Process ID:		0x1814
+	Process Name:		C:\Windows\explorer.exe"
+Information,8/27/2023 4:57:17 AM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-21-3089243881-3525850343-252262830-500
+	Account Name:		Administrator
+	Account Domain:		GOVBETA
+	Logon ID:		0x8641E
+
+User:
+	Security ID:		S-1-5-21-3089243881-3525850343-252262830-500
+	Account Name:		Administrator
+	Account Domain:		GOVBETA
+
+Process Information:
+	Process ID:		0x1814
+	Process Name:		C:\Windows\explorer.exe"
+Information,8/27/2023 4:56:56 AM,Microsoft-Windows-Security-Auditing,4625,Logon,"An account failed to log on.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		GOVBETA$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Logon Type:			4
+
+Account For Which Logon Failed:
+	Security ID:		NULL SID
+	Account Name:		Administrator
+	Account Domain:		HORSEPANDA
+
+Failure Information:
+	Failure Reason:		Unknown user name or bad password.
+	Status:			0xC000006D
+	Sub Status:		0xC000006A
+
+Process Information:
+	Caller Process ID:	0x4c0
+	Caller Process Name:	C:\Windows\System32\svchost.exe
+
+Network Information:
+	Workstation Name:	GOVBETA
+	Source Network Address:	-
+	Source Port:		-
+
+Detailed Authentication Information:
+	Logon Process:		Advapi  
+	Authentication Package:	Negotiate
+	Transited Services:	-
+	Package Name (NTLM only):	-
+	Key Length:		0
+
+This event is generated when a logon request fails. It is generated on the computer where access was attempted.
+
+The Subject fields indicate the account on the local system which requested the logon. This is most commonly a service such as the Server service, or a local process such as Winlogon.exe or Services.exe.
+
+The Logon Type field indicates the kind of logon that was requested. The most common types are 2 (interactive) and 3 (network).
+
+The Process Information fields indicate which account and process on the system requested the logon.
+
+The Network Information fields indicate where a remote logon request originated. Workstation name is not always available and may be left blank in some cases.
+
+The authentication information fields provide detailed information about this specific logon request.
+	- Transited services indicate which intermediate services have participated in this logon request.
+	- Package name indicates which sub-protocol was used among the NTLM protocols.
+	- Key length indicates the length of the generated session key. This will be 0 if no session key was requested."
+Information,8/27/2023 4:56:50 AM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-21-3089243881-3525850343-252262830-500
+	Account Name:		Administrator
+	Account Domain:		GOVBETA
+	Logon ID:		0x8641E
+
+User:
+	Security ID:		S-1-5-21-3089243881-3525850343-252262830-500
+	Account Name:		Administrator
+	Account Domain:		GOVBETA
+
+Process Information:
+	Process ID:		0x1814
+	Process Name:		C:\Windows\explorer.exe"
+Information,8/27/2023 4:56:43 AM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-21-3089243881-3525850343-252262830-500
+	Account Name:		Administrator
+	Account Domain:		GOVBETA
+	Logon ID:		0x8641E
+
+User:
+	Security ID:		S-1-5-21-3089243881-3525850343-252262830-500
+	Account Name:		Administrator
+	Account Domain:		GOVBETA
+
+Process Information:
+	Process ID:		0x1814
+	Process Name:		C:\Windows\explorer.exe"
+Information,8/27/2023 4:56:40 AM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-21-3089243881-3525850343-252262830-500
+	Account Name:		Administrator
+	Account Domain:		GOVBETA
+	Logon ID:		0x8641E
+
+User:
+	Security ID:		S-1-5-21-3089243881-3525850343-252262830-500
+	Account Name:		Administrator
+	Account Domain:		GOVBETA
+
+Process Information:
+	Process ID:		0x1814
+	Process Name:		C:\Windows\explorer.exe"
+Information,8/27/2023 4:56:38 AM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-21-3089243881-3525850343-252262830-500
+	Account Name:		Administrator
+	Account Domain:		GOVBETA
+	Logon ID:		0x8641E
+
+User:
+	Security ID:		S-1-5-21-3089243881-3525850343-252262830-500
+	Account Name:		Administrator
+	Account Domain:		GOVBETA
+
+Process Information:
+	Process ID:		0x1814
+	Process Name:		C:\Windows\explorer.exe"
+Information,8/27/2023 4:56:36 AM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-21-3089243881-3525850343-252262830-500
+	Account Name:		Administrator
+	Account Domain:		GOVBETA
+	Logon ID:		0x8641E
+
+User:
+	Security ID:		S-1-5-21-3089243881-3525850343-252262830-500
+	Account Name:		Administrator
+	Account Domain:		GOVBETA
+
+Process Information:
+	Process ID:		0x1814
+	Process Name:		C:\Windows\explorer.exe"
+Information,8/27/2023 4:56:25 AM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-21-3089243881-3525850343-252262830-500
+	Account Name:		Administrator
+	Account Domain:		GOVBETA
+	Logon ID:		0x8641E
+
+User:
+	Security ID:		S-1-5-21-3089243881-3525850343-252262830-500
+	Account Name:		Administrator
+	Account Domain:		GOVBETA
+
+Process Information:
+	Process ID:		0x1814
+	Process Name:		C:\Windows\explorer.exe"
+Information,8/27/2023 4:56:22 AM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-21-3089243881-3525850343-252262830-500
+	Account Name:		Administrator
+	Account Domain:		GOVBETA
+	Logon ID:		0x8641E
+
+User:
+	Security ID:		S-1-5-21-3089243881-3525850343-252262830-500
+	Account Name:		Administrator
+	Account Domain:		GOVBETA
+
+Process Information:
+	Process ID:		0x1814
+	Process Name:		C:\Windows\explorer.exe"
+Information,8/27/2023 4:55:57 AM,Microsoft-Windows-Security-Auditing,4634,Logoff,"An account was logged off.
+
+Subject:
+	Security ID:		S-1-5-21-3089243881-3525850343-252262830-1003
+	Account Name:		jonathan
+	Account Domain:		GOVBETA
+	Logon ID:		0x306361
+
+Logon Type:			4
+
+This event is generated when a logon session is destroyed. It may be positively correlated with a logon event using the Logon ID value. Logon IDs are only unique between reboots on the same computer."
+Information,8/27/2023 4:55:56 AM,Microsoft-Windows-Security-Auditing,4624,Logon,"An account was successfully logged on.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		GOVBETA$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Logon Information:
+	Logon Type:		4
+	Restricted Admin Mode:	-
+	Virtual Account:		No
+	Elevated Token:		No
+
+Impersonation Level:		Impersonation
+
+New Logon:
+	Security ID:		S-1-5-21-3089243881-3525850343-252262830-1003
+	Account Name:		jonathan
+	Account Domain:		GOVBETA
+	Logon ID:		0x306361
+	Linked Logon ID:		0x0
+	Network Account Name:	-
+	Network Account Domain:	-
+	Logon GUID:		{00000000-0000-0000-0000-000000000000}
+
+Process Information:
+	Process ID:		0x4c0
+	Process Name:		C:\Windows\System32\svchost.exe
+
+Network Information:
+	Workstation Name:	GOVBETA
+	Source Network Address:	-
+	Source Port:		-
+
+Detailed Authentication Information:
+	Logon Process:		Advapi  
+	Authentication Package:	Negotiate
+	Transited Services:	-
+	Package Name (NTLM only):	-
+	Key Length:		0
+
+This event is generated when a logon session is created. It is generated on the computer that was accessed.
+
+The subject fields indicate the account on the local system which requested the logon. This is most commonly a service such as the Server service, or a local process such as Winlogon.exe or Services.exe.
+
+The logon type field indicates the kind of logon that occurred. The most common types are 2 (interactive) and 3 (network).
+
+The New Logon fields indicate the account for whom the new logon was created, i.e. the account that was logged on.
+
+The network fields indicate where a remote logon request originated. Workstation name is not always available and may be left blank in some cases.
+
+The impersonation level field indicates the extent to which a process in the logon session can impersonate.
+
+The authentication information fields provide detailed information about this specific logon request.
+	- Logon GUID is a unique identifier that can be used to correlate this event with a KDC event.
+	- Transited services indicate which intermediate services have participated in this logon request.
+	- Package name indicates which sub-protocol was used among the NTLM protocols.
+	- Key length indicates the length of the generated session key. This will be 0 if no session key was requested."
+Information,8/27/2023 4:55:56 AM,Microsoft-Windows-Security-Auditing,4648,Logon,"A logon was attempted using explicit credentials.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		GOVBETA$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+	Logon GUID:		{00000000-0000-0000-0000-000000000000}
+
+Account Whose Credentials Were Used:
+	Account Name:		jonathan
+	Account Domain:		GOVBETA
+	Logon GUID:		{00000000-0000-0000-0000-000000000000}
+
+Target Server:
+	Target Server Name:	localhost
+	Additional Information:	localhost
+
+Process Information:
+	Process ID:		0x4c0
+	Process Name:		C:\Windows\System32\svchost.exe
+
+Network Information:
+	Network Address:	-
+	Port:			-
+
+This event is generated when a process attempts to log on an account by explicitly specifying that account’s credentials.  This most commonly occurs in batch-type configurations such as scheduled tasks, or when using the RUNAS command."
+Information,8/27/2023 4:54:57 AM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-21-3089243881-3525850343-252262830-500
+	Account Name:		Administrator
+	Account Domain:		GOVBETA
+	Logon ID:		0x8641E
+
+User:
+	Security ID:		S-1-5-21-3089243881-3525850343-252262830-500
+	Account Name:		Administrator
+	Account Domain:		GOVBETA
+
+Process Information:
+	Process ID:		0x1814
+	Process Name:		C:\Windows\explorer.exe"
+Information,8/27/2023 4:54:52 AM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-21-3089243881-3525850343-252262830-500
+	Account Name:		Administrator
+	Account Domain:		GOVBETA
+	Logon ID:		0x8641E
+
+User:
+	Security ID:		S-1-5-21-3089243881-3525850343-252262830-500
+	Account Name:		Administrator
+	Account Domain:		GOVBETA
+
+Process Information:
+	Process ID:		0x1814
+	Process Name:		C:\Windows\explorer.exe"
+Information,8/27/2023 4:54:48 AM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-21-3089243881-3525850343-252262830-500
+	Account Name:		Administrator
+	Account Domain:		GOVBETA
+	Logon ID:		0x8641E
+
+User:
+	Security ID:		S-1-5-21-3089243881-3525850343-252262830-500
+	Account Name:		Administrator
+	Account Domain:		GOVBETA
+
+Process Information:
+	Process ID:		0x1814
+	Process Name:		C:\Windows\explorer.exe"
+Information,8/27/2023 4:54:45 AM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-21-3089243881-3525850343-252262830-500
+	Account Name:		Administrator
+	Account Domain:		GOVBETA
+	Logon ID:		0x8641E
+
+User:
+	Security ID:		S-1-5-21-3089243881-3525850343-252262830-500
+	Account Name:		Administrator
+	Account Domain:		GOVBETA
+
+Process Information:
+	Process ID:		0x1814
+	Process Name:		C:\Windows\explorer.exe"
+Information,8/27/2023 4:54:41 AM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-21-3089243881-3525850343-252262830-500
+	Account Name:		Administrator
+	Account Domain:		GOVBETA
+	Logon ID:		0x8641E
+
+User:
+	Security ID:		S-1-5-21-3089243881-3525850343-252262830-500
+	Account Name:		Administrator
+	Account Domain:		GOVBETA
+
+Process Information:
+	Process ID:		0x1814
+	Process Name:		C:\Windows\explorer.exe"
+Information,8/27/2023 4:54:38 AM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-21-3089243881-3525850343-252262830-500
+	Account Name:		Administrator
+	Account Domain:		GOVBETA
+	Logon ID:		0x8641E
+
+User:
+	Security ID:		S-1-5-21-3089243881-3525850343-252262830-500
+	Account Name:		Administrator
+	Account Domain:		GOVBETA
+
+Process Information:
+	Process ID:		0x1814
+	Process Name:		C:\Windows\explorer.exe"
+Information,8/27/2023 4:54:37 AM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-21-3089243881-3525850343-252262830-500
+	Account Name:		Administrator
+	Account Domain:		GOVBETA
+	Logon ID:		0x8641E
+
+User:
+	Security ID:		S-1-5-21-3089243881-3525850343-252262830-500
+	Account Name:		Administrator
+	Account Domain:		GOVBETA
+
+Process Information:
+	Process ID:		0x1814
+	Process Name:		C:\Windows\explorer.exe"
+Information,8/27/2023 4:54:34 AM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-21-3089243881-3525850343-252262830-500
+	Account Name:		Administrator
+	Account Domain:		GOVBETA
+	Logon ID:		0x8641E
+
+User:
+	Security ID:		S-1-5-21-3089243881-3525850343-252262830-500
+	Account Name:		Administrator
+	Account Domain:		GOVBETA
+
+Process Information:
+	Process ID:		0x1814
+	Process Name:		C:\Windows\explorer.exe"
+Information,8/27/2023 4:54:32 AM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-21-3089243881-3525850343-252262830-500
+	Account Name:		Administrator
+	Account Domain:		GOVBETA
+	Logon ID:		0x8641E
+
+User:
+	Security ID:		S-1-5-21-3089243881-3525850343-252262830-500
+	Account Name:		Administrator
+	Account Domain:		GOVBETA
+
+Process Information:
+	Process ID:		0x1814
+	Process Name:		C:\Windows\explorer.exe"
+Information,8/27/2023 4:54:30 AM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-21-3089243881-3525850343-252262830-500
+	Account Name:		Administrator
+	Account Domain:		GOVBETA
+	Logon ID:		0x8641E
+
+User:
+	Security ID:		S-1-5-21-3089243881-3525850343-252262830-500
+	Account Name:		Administrator
+	Account Domain:		GOVBETA
+
+Process Information:
+	Process ID:		0x1814
+	Process Name:		C:\Windows\explorer.exe"
+Information,8/27/2023 4:54:28 AM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-21-3089243881-3525850343-252262830-500
+	Account Name:		Administrator
+	Account Domain:		GOVBETA
+	Logon ID:		0x8641E
+
+User:
+	Security ID:		S-1-5-21-3089243881-3525850343-252262830-500
+	Account Name:		Administrator
+	Account Domain:		GOVBETA
+
+Process Information:
+	Process ID:		0x1814
+	Process Name:		C:\Windows\explorer.exe"
+Information,8/27/2023 4:54:27 AM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-21-3089243881-3525850343-252262830-500
+	Account Name:		Administrator
+	Account Domain:		GOVBETA
+	Logon ID:		0x8641E
+
+User:
+	Security ID:		S-1-5-21-3089243881-3525850343-252262830-500
+	Account Name:		Administrator
+	Account Domain:		GOVBETA
+
+Process Information:
+	Process ID:		0x1814
+	Process Name:		C:\Windows\explorer.exe"
+Information,8/27/2023 4:54:24 AM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-21-3089243881-3525850343-252262830-500
+	Account Name:		Administrator
+	Account Domain:		GOVBETA
+	Logon ID:		0x8641E
+
+User:
+	Security ID:		S-1-5-21-3089243881-3525850343-252262830-500
+	Account Name:		Administrator
+	Account Domain:		GOVBETA
+
+Process Information:
+	Process ID:		0x1814
+	Process Name:		C:\Windows\explorer.exe"
+Information,8/27/2023 4:54:19 AM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-21-3089243881-3525850343-252262830-500
+	Account Name:		Administrator
+	Account Domain:		GOVBETA
+	Logon ID:		0x8641E
+
+User:
+	Security ID:		S-1-5-21-3089243881-3525850343-252262830-500
+	Account Name:		Administrator
+	Account Domain:		GOVBETA
+
+Process Information:
+	Process ID:		0x1814
+	Process Name:		C:\Windows\explorer.exe"
+Information,8/27/2023 4:54:17 AM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-21-3089243881-3525850343-252262830-500
+	Account Name:		Administrator
+	Account Domain:		GOVBETA
+	Logon ID:		0x8641E
+
+User:
+	Security ID:		S-1-5-21-3089243881-3525850343-252262830-500
+	Account Name:		Administrator
+	Account Domain:		GOVBETA
+
+Process Information:
+	Process ID:		0x1814
+	Process Name:		C:\Windows\explorer.exe"
+Information,8/27/2023 4:54:16 AM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-21-3089243881-3525850343-252262830-500
+	Account Name:		Administrator
+	Account Domain:		GOVBETA
+	Logon ID:		0x8641E
+
+User:
+	Security ID:		S-1-5-21-3089243881-3525850343-252262830-500
+	Account Name:		Administrator
+	Account Domain:		GOVBETA
+
+Process Information:
+	Process ID:		0x1814
+	Process Name:		C:\Windows\explorer.exe"
+Information,8/27/2023 4:54:12 AM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"The description for Event ID 4798 from source Microsoft-Windows-Security-Auditing cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+Administrator
+GOVBETA
+EV_RenderedValue_2.00
+EV_RenderedValue_3.00
+Administrator
+GOVBETA
+549918
+6164
+C:\Windows\explorer.exe
+
+The handle is invalid
+"
+Information,8/27/2023 4:54:09 AM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-21-3089243881-3525850343-252262830-500
+	Account Name:		Administrator
+	Account Domain:		GOVBETA
+	Logon ID:		0x8641E
+
+User:
+	Security ID:		S-1-5-21-3089243881-3525850343-252262830-500
+	Account Name:		Administrator
+	Account Domain:		GOVBETA
+
+Process Information:
+	Process ID:		0x1814
+	Process Name:		C:\Windows\explorer.exe"

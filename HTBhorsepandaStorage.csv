@@ -1,0 +1,96 @@
+﻿Level,Date and Time,Source,Event ID,Task Category
+Error,8/27/2023 4:45:37 AM,Microsoft-Windows-StorPort,549,Port,"This is the first instance of the error seen during this time period                     
+on Storport Device (Port = 0, Path = 0, Target = 1, Lun = 0) whose Corresponding Class Disk Device Guid is {49184303-7aa3-41d6-4ca4-bd365e5963b9}:                     
+The request opcode was 0x1A and completed with SrbStatus 0x4 and ScsiStatus 0x2.                     
+The sense code was (0x5,0x24,0x0).                     
+The io latency was 1 ms."
+Error,8/27/2023 4:31:47 AM,Microsoft-Windows-StorPort,549,Port,"This is the first instance of the error seen during this time period                     
+on Storport Device (Port = 0, Path = 0, Target = 1, Lun = 0) whose Corresponding Class Disk Device Guid is {49184303-7aa3-41d6-4ca4-bd365e5963b9}:                     
+The request opcode was 0x4D and completed with SrbStatus 0x4 and ScsiStatus 0x2.                     
+The sense code was (0x5,0x20,0x0).                     
+The io latency was 1 ms."
+Information,8/27/2023 4:31:47 AM,Microsoft-Windows-StorPort,504,Port,"Error summary for Storport Device (Port = 0, Path = 0, Target = 1, Lun = 0) whose Corresponding Class Disk Device Guid is {49184303-7aa3-41d6-4ca4-bd365e5963b9}:                     
+There were 41 total errors seen and 0 timeouts.                     
+The last error seen had opcode 0x1A and completed with SrbStatus 0x4 and ScsiStatus 0x2.                     
+The sense code was (0x5,0x24,0x0).                     
+The latency was 1 ms."
+Information,8/27/2023 4:31:47 AM,Microsoft-Windows-StorPort,505,Port,"Performance summary for Storport Device (Port = 0, Path = 0, Target = 1, Lun = 0) whose Corresponding Class Disk Device Guid is {49184303-7aa3-41d6-4ca4-bd365e5963b9}:                 
+Total IO:66762                 
+For latency buckets of 256us, 1ms, 4ms, 16ms, 64ms, 128ms, 256ms, 2000ms, 6000ms, 10000ms, 20000ms, 20000+ms,                 
+The IO success counts are 35807, 28874, 1349, 410, 153, 40, 38, 91, 0, 0, 0, 0.                 
+The IO failed counts are 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0.                 
+The IO total latency (in 100ns) are 68809866, 110235182, 25224721, 31724430, 48590273, 36594070, 75792067, 303185990, 0, 0, 0, 0.                 
+Total Bytes Read:1274513408                 
+Total Bytes Written:102275584"
+Error,8/27/2023 4:20:50 AM,Microsoft-Windows-StorPort,549,Port,"This is the first instance of the error seen during this time period                     
+on Storport Device (Port = 0, Path = 0, Target = 1, Lun = 0) whose Corresponding Class Disk Device Guid is {00000000-0000-0000-0000-000000000000}:                     
+The request opcode was 0x1A and completed with SrbStatus 0x4 and ScsiStatus 0x2.                     
+The sense code was (0x5,0x24,0x0).                     
+The io latency was 1 ms."
+Information,8/27/2023 4:20:47 AM,Microsoft-Windows-StorPort,553,Port,Storport Device {34dc2951-88c5-11ea-b5e7-806e6f6e6963} (Port = 0) was rescanned and changes were detected.
+Information,8/27/2023 4:20:47 AM,Microsoft-Windows-StorPort,552,Port,"Storport Device (Port = 0, Path = 0, Target = 1, Lun = 0) has arrived."
+Error,8/27/2023 4:20:47 AM,Microsoft-Windows-StorPort,549,Port,"This is the first instance of the error seen during this time period                     
+on Storport Device (Port = 0, Path = 0, Target = 2, Lun = 0) whose Corresponding Class Disk Device Guid is {00000000-0000-0000-0000-000000000000}:                     
+The request opcode was 0xA0 and completed with SrbStatus 0xA and ScsiStatus 0x0.                     
+The sense code was (0x0,0x0,0x0).                     
+The io latency was 0 ms."
+Error,8/27/2023 4:20:47 AM,Microsoft-Windows-StorPort,549,Port,"This is the first instance of the error seen during this time period                     
+on Storport Device (Port = 0, Path = 0, Target = 0, Lun = 0) whose Corresponding Class Disk Device Guid is {00000000-0000-0000-0000-000000000000}:                     
+The request opcode was 0xA0 and completed with SrbStatus 0xA and ScsiStatus 0x0.                     
+The sense code was (0x0,0x0,0x0).                     
+The io latency was 0 ms."
+Error,8/27/2023 4:14:02 AM,Microsoft-Windows-StorPort,549,Port,"This is the first instance of the error seen during this time period                     
+on Storport Device (Port = 0, Path = 0, Target = 1, Lun = 0) whose Corresponding Class Disk Device Guid is {49184303-7aa3-41d6-4ca4-bd365e5963b9}:                     
+The request opcode was 0x1A and completed with SrbStatus 0x4 and ScsiStatus 0x2.                     
+The sense code was (0x5,0x24,0x0).                     
+The io latency was 1 ms."
+Error,8/27/2023 4:03:37 AM,Microsoft-Windows-StorPort,549,Port,"This is the first instance of the error seen during this time period                     
+on Storport Device (Port = 0, Path = 0, Target = 1, Lun = 0) whose Corresponding Class Disk Device Guid is {49184303-7aa3-41d6-4ca4-bd365e5963b9}:                     
+The request opcode was 0x4D and completed with SrbStatus 0x4 and ScsiStatus 0x2.                     
+The sense code was (0x5,0x20,0x0).                     
+The io latency was 1 ms."
+Information,8/27/2023 4:03:37 AM,Microsoft-Windows-StorPort,504,Port,"Error summary for Storport Device (Port = 0, Path = 0, Target = 1, Lun = 0) whose Corresponding Class Disk Device Guid is {49184303-7aa3-41d6-4ca4-bd365e5963b9}:                     
+There were 41 total errors seen and 0 timeouts.                     
+The last error seen had opcode 0x1A and completed with SrbStatus 0x4 and ScsiStatus 0x2.                     
+The sense code was (0x5,0x24,0x0).                     
+The latency was 1 ms."
+Information,8/27/2023 4:03:37 AM,Microsoft-Windows-StorPort,505,Port,"Performance summary for Storport Device (Port = 0, Path = 0, Target = 1, Lun = 0) whose Corresponding Class Disk Device Guid is {49184303-7aa3-41d6-4ca4-bd365e5963b9}:                 
+Total IO:67724                 
+For latency buckets of 256us, 1ms, 4ms, 16ms, 64ms, 128ms, 256ms, 2000ms, 6000ms, 10000ms, 20000ms, 20000+ms,                 
+The IO success counts are 37305, 28463, 1133, 432, 184, 43, 48, 116, 0, 0, 0, 0.                 
+The IO failed counts are 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0.                 
+The IO total latency (in 100ns) are 70744696, 107799392, 20945996, 33663395, 60708374, 38915759, 98775718, 377898545, 0, 0, 0, 0.                 
+Total Bytes Read:1273549312                 
+Total Bytes Written:105249280"
+Error,8/27/2023 3:52:40 AM,Microsoft-Windows-StorPort,549,Port,"This is the first instance of the error seen during this time period                     
+on Storport Device (Port = 0, Path = 0, Target = 1, Lun = 0) whose Corresponding Class Disk Device Guid is {00000000-0000-0000-0000-000000000000}:                     
+The request opcode was 0x1A and completed with SrbStatus 0x4 and ScsiStatus 0x2.                     
+The sense code was (0x5,0x24,0x0).                     
+The io latency was 1 ms."
+Information,8/27/2023 3:52:37 AM,Microsoft-Windows-StorPort,553,Port,Storport Device {34dc2951-88c5-11ea-b5e7-806e6f6e6963} (Port = 0) was rescanned and changes were detected.
+Information,8/27/2023 3:52:37 AM,Microsoft-Windows-StorPort,552,Port,"Storport Device (Port = 0, Path = 0, Target = 1, Lun = 0) has arrived."
+Error,8/27/2023 3:52:37 AM,Microsoft-Windows-StorPort,549,Port,"This is the first instance of the error seen during this time period                     
+on Storport Device (Port = 0, Path = 0, Target = 2, Lun = 0) whose Corresponding Class Disk Device Guid is {00000000-0000-0000-0000-000000000000}:                     
+The request opcode was 0xA0 and completed with SrbStatus 0xA and ScsiStatus 0x0.                     
+The sense code was (0x0,0x0,0x0).                     
+The io latency was 0 ms."
+Error,8/27/2023 3:52:37 AM,Microsoft-Windows-StorPort,549,Port,"This is the first instance of the error seen during this time period                     
+on Storport Device (Port = 0, Path = 0, Target = 0, Lun = 0) whose Corresponding Class Disk Device Guid is {00000000-0000-0000-0000-000000000000}:                     
+The request opcode was 0xA0 and completed with SrbStatus 0xA and ScsiStatus 0x0.                     
+The sense code was (0x0,0x0,0x0).                     
+The io latency was 0 ms."
+Error,8/27/2023 3:45:32 AM,Microsoft-Windows-StorPort,549,Port,"This is the first instance of the error seen during this time period                     
+on Storport Device (Port = 0, Path = 0, Target = 1, Lun = 0) whose Corresponding Class Disk Device Guid is {49184303-7aa3-41d6-4ca4-bd365e5963b9}:                     
+The request opcode was 0x1A and completed with SrbStatus 0x4 and ScsiStatus 0x2.                     
+The sense code was (0x5,0x24,0x0).                     
+The io latency was 1 ms."
+Error,8/27/2023 3:25:57 AM,Microsoft-Windows-StorPort,549,Port,"This is the first instance of the error seen during this time period                     
+on Storport Device (Port = 0, Path = 0, Target = 1, Lun = 0) whose Corresponding Class Disk Device Guid is {49184303-7aa3-41d6-4ca4-bd365e5963b9}:                     
+The request opcode was 0x4D and completed with SrbStatus 0x4 and ScsiStatus 0x2.                     
+The sense code was (0x5,0x20,0x0).                     
+The io latency was 1 ms."
+Information,8/27/2023 3:25:57 AM,Microsoft-Windows-StorPort,504,Port,"Error summary for Storport Device (Port = 0, Path = 0, Target = 1, Lun = 0) whose Corresponding Class Disk Device Guid is {49184303-7aa3-41d6-4ca4-bd365e5963b9}:                     
+There were 41 total errors seen and 0 timeouts.                     
+The last error seen had opcode 0x1A and completed with SrbStatus 0x4 and ScsiStatus 0x2.                     
+The sense code was (0x5,0x24,0x0).                     
+The latency was 1 ms."

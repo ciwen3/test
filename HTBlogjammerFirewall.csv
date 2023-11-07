@@ -1,0 +1,205 @@
+﻿Level,Date and Time,Source,Event ID,Task Category
+Information,3/27/2023 7:44:43 AM,Microsoft-Windows-Windows Firewall With Advanced Security,2004,None,"A rule has been added to the Windows Defender Firewall exception list.
+
+Added Rule:
+	Rule ID:	{11309293-FB68-4969-93F9-7F75A9032570}
+	Rule Name:	Metasploit C2 Bypass
+	Origin:	Local
+	Active:	Yes
+	Direction:	Outbound
+	Profiles:	Private,Domain, Public
+	Action:	Allow
+	Application Path:	
+	Service Name:	
+	Protocol:	TCP
+	Security Options:	None
+	Edge Traversal:	None
+	Modifying User:	S-1-5-21-3393683511-3463148672-371912004-1001
+	Modifying Application:	C:\Windows\System32\mmc.exe"
+Information,3/27/2023 7:37:35 AM,Microsoft-Windows-Windows Firewall With Advanced Security,2004,None,"A rule has been added to the Windows Defender Firewall exception list.
+
+Added Rule:
+	Rule ID:	{48801236-8886-4802-880F-87B5EB61B98A}
+	Rule Name:	Microsoft Edge
+	Origin:	Local
+	Active:	Yes
+	Direction:	Outbound
+	Profiles:	Private,Domain, Public
+	Action:	Block
+	Application Path:	
+	Service Name:	
+	Protocol:	Any
+	Security Options:	None
+	Edge Traversal:	None
+	Modifying User:	NT SERVICE\mpssvc
+	Modifying Application:	C:\Windows\System32\svchost.exe"
+Information,3/27/2023 7:37:35 AM,Microsoft-Windows-Windows Firewall With Advanced Security,2004,None,"A rule has been added to the Windows Defender Firewall exception list.
+
+Added Rule:
+	Rule ID:	{B392BC66-2258-46F5-8A11-83F837B50783}
+	Rule Name:	Microsoft Edge
+	Origin:	Local
+	Active:	Yes
+	Direction:	Inbound
+	Profiles:	Private,Domain, Public
+	Action:	Block
+	Application Path:	
+	Service Name:	
+	Protocol:	Any
+	Security Options:	None
+	Edge Traversal:	None
+	Modifying User:	NT SERVICE\mpssvc
+	Modifying Application:	C:\Windows\System32\svchost.exe"
+Information,3/27/2023 7:37:35 AM,Microsoft-Windows-Windows Firewall With Advanced Security,2006,None,"A rule has been deleted in the Windows Defender Firewall exception list.
+
+Deleted Rule:
+	Rule ID:	{2DA40BAD-77B6-4088-B708-F593E0EE6E36}
+	Rule Name:	Microsoft Edge
+	Modifying User:	NT SERVICE\mpssvc
+	Modifying Application:	C:\Windows\System32\svchost.exe"
+Information,3/27/2023 7:37:35 AM,Microsoft-Windows-Windows Firewall With Advanced Security,2006,None,"A rule has been deleted in the Windows Defender Firewall exception list.
+
+Deleted Rule:
+	Rule ID:	{2B046014-4E35-4818-8C03-C0519457A894}
+	Rule Name:	Microsoft Edge
+	Modifying User:	NT SERVICE\mpssvc
+	Modifying Application:	C:\Windows\System32\svchost.exe"
+Information,3/27/2023 7:37:11 AM,Microsoft-Windows-Windows Firewall With Advanced Security,2010,None,"Network profile changed on an interface.
+
+Adapter GUID:	{b06a14a2-cdc9-4027-b73a-629dff723ac0}
+Adapter Name:	ethernet_32769
+Old Profile:	None
+New Profile:	Public"
+Information,3/27/2023 7:37:11 AM,Microsoft-Windows-Windows Firewall With Advanced Security,2051,None,"Tenant Restrictions Policy Update
+
+Error code:	0
+Policy Change:	0
+"
+Information,3/27/2023 7:37:11 AM,Microsoft-Windows-Windows Firewall With Advanced Security,2033,None,"All rules have been deleted from the Windows Defender Firewall configuration on this computer.
+
+	Store Type:	12
+	ModifyingUser:	NT SERVICE\mpssvc
+	ModifyingApplication:	C:\Windows\System32\svchost.exe"
+Information,3/27/2023 7:33:32 AM,Microsoft-Windows-Windows Firewall With Advanced Security,2006,None,"A rule has been deleted in the Windows Defender Firewall exception list.
+
+Deleted Rule:
+	Rule ID:	{5F08AF3F-0AB8-4848-B995-F523FBA2190F}
+	Rule Name:	a1e2a34e-ec99-4f07-afc6-37c4a8aff1dd
+	Modifying User:	SYSTEM
+	Modifying Application:	C:\Program Files (x86)\Microsoft\EdgeUpdate\Install\{F343F4B4-5712-4404-B5FB-265F28D6AEE3}\EDGEMITMP_8C13B.tmp\setup.exe"
+Information,3/27/2023 7:33:32 AM,Microsoft-Windows-Windows Firewall With Advanced Security,2005,None,"A rule has been modified in the Windows Defender Firewall exception list.
+
+Modified Rule:
+	Rule ID:	{5F08AF3F-0AB8-4848-B995-F523FBA2190F}
+	Rule Name:	a1e2a34e-ec99-4f07-afc6-37c4a8aff1dd
+	Origin:	Local
+	Active:	Yes
+	Direction:	Inbound
+	Profiles:	Private,Domain, Public
+	Action:	Allow
+	Application Path:	C:\Program Files (x86)\Microsoft\EdgeWebView\Application\111.0.1661.51\msedgewebview2.exe
+	Service Name:	
+	Protocol:	UDP
+	Security Options:	None
+	Edge Traversal:	None
+	Modifying User:	SYSTEM
+	Modifying Application:	C:\Program Files (x86)\Microsoft\EdgeUpdate\Install\{F343F4B4-5712-4404-B5FB-265F28D6AEE3}\EDGEMITMP_8C13B.tmp\setup.exe"
+Information,3/27/2023 7:33:32 AM,Microsoft-Windows-Windows Firewall With Advanced Security,2004,None,"A rule has been added to the Windows Defender Firewall exception list.
+
+Added Rule:
+	Rule ID:	{813B1018-0DBD-423D-B319-92B61CBBFF2C}
+	Rule Name:	Microsoft Edge (mDNS-In)
+	Origin:	Local
+	Active:	Yes
+	Direction:	Inbound
+	Profiles:	Private,Domain, Public
+	Action:	Allow
+	Application Path:	C:\Program Files (x86)\Microsoft\EdgeWebView\Application\111.0.1661.54\msedgewebview2.exe
+	Service Name:	
+	Protocol:	UDP
+	Security Options:	None
+	Edge Traversal:	None
+	Modifying User:	SYSTEM
+	Modifying Application:	C:\Program Files (x86)\Microsoft\EdgeUpdate\Install\{F343F4B4-5712-4404-B5FB-265F28D6AEE3}\EDGEMITMP_8C13B.tmp\setup.exe"
+Information,3/27/2023 7:33:27 AM,Microsoft-Windows-Windows Firewall With Advanced Security,2004,None,"A rule has been added to the Windows Defender Firewall exception list.
+
+Added Rule:
+	Rule ID:	{655AEDFD-97A4-4F9E-A658-F63F42E2CE3F}
+	Rule Name:	Microsoft Edge (mDNS-In)
+	Origin:	Local
+	Active:	Yes
+	Direction:	Inbound
+	Profiles:	Private,Domain, Public
+	Action:	Allow
+	Application Path:	C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+	Service Name:	
+	Protocol:	UDP
+	Security Options:	None
+	Edge Traversal:	None
+	Modifying User:	SYSTEM
+	Modifying Application:	C:\Program Files (x86)\Microsoft\EdgeUpdate\Install\{202C0A28-DE26-4EEF-A86E-051C7EE8AC64}\EDGEMITMP_21644.tmp\setup.exe"
+Information,3/27/2023 7:33:27 AM,Microsoft-Windows-Windows Firewall With Advanced Security,2006,None,"A rule has been deleted in the Windows Defender Firewall exception list.
+
+Deleted Rule:
+	Rule ID:	{7031EB74-D25B-4255-A0DA-71BBE74B5449}
+	Rule Name:	d02a4407-389b-451c-afea-f6db9ce5aa9a
+	Modifying User:	SYSTEM
+	Modifying Application:	C:\Program Files (x86)\Microsoft\EdgeUpdate\Install\{202C0A28-DE26-4EEF-A86E-051C7EE8AC64}\EDGEMITMP_21644.tmp\setup.exe"
+Information,3/27/2023 7:33:27 AM,Microsoft-Windows-Windows Firewall With Advanced Security,2005,None,"A rule has been modified in the Windows Defender Firewall exception list.
+
+Modified Rule:
+	Rule ID:	{7031EB74-D25B-4255-A0DA-71BBE74B5449}
+	Rule Name:	d02a4407-389b-451c-afea-f6db9ce5aa9a
+	Origin:	Local
+	Active:	Yes
+	Direction:	Inbound
+	Profiles:	Private,Domain, Public
+	Action:	Allow
+	Application Path:	C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+	Service Name:	
+	Protocol:	UDP
+	Security Options:	None
+	Edge Traversal:	None
+	Modifying User:	SYSTEM
+	Modifying Application:	C:\Program Files (x86)\Microsoft\EdgeUpdate\Install\{202C0A28-DE26-4EEF-A86E-051C7EE8AC64}\EDGEMITMP_21644.tmp\setup.exe"
+Information,3/27/2023 7:33:27 AM,Microsoft-Windows-Windows Firewall With Advanced Security,2004,None,"A rule has been added to the Windows Defender Firewall exception list.
+
+Added Rule:
+	Rule ID:	{7031EB74-D25B-4255-A0DA-71BBE74B5449}
+	Rule Name:	Microsoft Edge (mDNS-In)
+	Origin:	Local
+	Active:	Yes
+	Direction:	Inbound
+	Profiles:	Private,Domain, Public
+	Action:	Allow
+	Application Path:	C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+	Service Name:	
+	Protocol:	UDP
+	Security Options:	None
+	Edge Traversal:	None
+	Modifying User:	SYSTEM
+	Modifying Application:	C:\Program Files (x86)\Microsoft\EdgeUpdate\Install\{202C0A28-DE26-4EEF-A86E-051C7EE8AC64}\EDGEMITMP_21644.tmp\setup.exe"
+Information,3/27/2023 7:33:27 AM,Microsoft-Windows-Windows Firewall With Advanced Security,2006,None,"A rule has been deleted in the Windows Defender Firewall exception list.
+
+Deleted Rule:
+	Rule ID:	{D1EDBA39-4646-45DC-87EF-2F62F829AC60}
+	Rule Name:	aa0f8f69-178f-417e-b4ed-695e518bcbc0
+	Modifying User:	SYSTEM
+	Modifying Application:	C:\Program Files (x86)\Microsoft\EdgeUpdate\Install\{202C0A28-DE26-4EEF-A86E-051C7EE8AC64}\EDGEMITMP_21644.tmp\setup.exe"
+Information,3/27/2023 7:33:27 AM,Microsoft-Windows-Windows Firewall With Advanced Security,2005,None,"A rule has been modified in the Windows Defender Firewall exception list.
+
+Modified Rule:
+	Rule ID:	{D1EDBA39-4646-45DC-87EF-2F62F829AC60}
+	Rule Name:	aa0f8f69-178f-417e-b4ed-695e518bcbc0
+	Origin:	Local
+	Active:	Yes
+	Direction:	Inbound
+	Profiles:	Private,Domain, Public
+	Action:	Allow
+	Application Path:	C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+	Service Name:	
+	Protocol:	UDP
+	Security Options:	None
+	Edge Traversal:	None
+	Modifying User:	SYSTEM
+	Modifying Application:	C:\Program Files (x86)\Microsoft\EdgeUpdate\Install\{202C0A28-DE26-4EEF-A86E-051C7EE8AC64}\EDGEMITMP_21644.tmp\setup.exe"
