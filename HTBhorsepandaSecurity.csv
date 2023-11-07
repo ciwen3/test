@@ -1,0 +1,456 @@
+﻿Level,Date and Time,Source,Event ID,Task Category,
+Information,"11/2/2023, 6:34:31.345 PM",Microsoft-Windows-Security-Auditing,4799,Security Group Management,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		GOVBETA$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		BUILTIN\Backup Operators
+	Group Name:		Backup Operators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x2324
+	Process Name:		C:\Windows\System32\VSSVC.exe"
+Information,"11/2/2023, 6:34:31.345 PM",Microsoft-Windows-Security-Auditing,4799,Security Group Management,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		GOVBETA$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		BUILTIN\Administrators
+	Group Name:		Administrators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x2324
+	Process Name:		C:\Windows\System32\VSSVC.exe"
+Information,"11/2/2023, 6:34:31.345 PM",Microsoft-Windows-Security-Auditing,4799,Security Group Management,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		GOVBETA$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		BUILTIN\Backup Operators
+	Group Name:		Backup Operators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x2324
+	Process Name:		C:\Windows\System32\VSSVC.exe"
+Information,"11/2/2023, 6:34:31.345 PM",Microsoft-Windows-Security-Auditing,4799,Security Group Management,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		GOVBETA$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		BUILTIN\Administrators
+	Group Name:		Administrators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x2324
+	Process Name:		C:\Windows\System32\VSSVC.exe"
+Information,"11/2/2023, 6:34:31.345 PM",Microsoft-Windows-Security-Auditing,4799,Security Group Management,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		GOVBETA$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		BUILTIN\Backup Operators
+	Group Name:		Backup Operators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x2324
+	Process Name:		C:\Windows\System32\VSSVC.exe"
+Information,"11/2/2023, 6:34:31.345 PM",Microsoft-Windows-Security-Auditing,4799,Security Group Management,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		GOVBETA$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		BUILTIN\Administrators
+	Group Name:		Administrators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x2324
+	Process Name:		C:\Windows\System32\VSSVC.exe"
+Information,"11/2/2023, 6:34:31.345 PM",Microsoft-Windows-Security-Auditing,4672,Special Logon,"Special privileges assigned to new logon.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		SYSTEM
+	Account Domain:		NT AUTHORITY
+	Logon ID:		0x3E7
+
+Privileges:		SeAssignPrimaryTokenPrivilege
+			SeTcbPrivilege
+			SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeAuditPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege
+			SeDelegateSessionUserImpersonatePrivilege"
+Information,"11/2/2023, 6:34:31.345 PM",Microsoft-Windows-Security-Auditing,4624,Logon,"An account was successfully logged on.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		GOVBETA$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Logon Information:
+	Logon Type:		5
+	Restricted Admin Mode:	-
+	Virtual Account:		No
+	Elevated Token:		Yes
+
+Impersonation Level:		Impersonation
+
+New Logon:
+	Security ID:		SYSTEM
+	Account Name:		SYSTEM
+	Account Domain:		NT AUTHORITY
+	Logon ID:		0x3E7
+	Linked Logon ID:		0x0
+	Network Account Name:	-
+	Network Account Domain:	-
+	Logon GUID:		{00000000-0000-0000-0000-000000000000}
+
+Process Information:
+	Process ID:		0x298
+	Process Name:		C:\Windows\System32\services.exe
+
+Network Information:
+	Workstation Name:	-
+	Source Network Address:	-
+	Source Port:		-
+
+Detailed Authentication Information:
+	Logon Process:		Advapi  
+	Authentication Package:	Negotiate
+	Transited Services:	-
+	Package Name (NTLM only):	-
+	Key Length:		0
+
+This event is generated when a logon session is created. It is generated on the computer that was accessed.
+
+The subject fields indicate the account on the local system which requested the logon. This is most commonly a service such as the Server service, or a local process such as Winlogon.exe or Services.exe.
+
+The logon type field indicates the kind of logon that occurred. The most common types are 2 (interactive) and 3 (network).
+
+The New Logon fields indicate the account for whom the new logon was created, i.e. the account that was logged on.
+
+The network fields indicate where a remote logon request originated. Workstation name is not always available and may be left blank in some cases.
+
+The impersonation level field indicates the extent to which a process in the logon session can impersonate.
+
+The authentication information fields provide detailed information about this specific logon request.
+	- Logon GUID is a unique identifier that can be used to correlate this event with a KDC event.
+	- Transited services indicate which intermediate services have participated in this logon request.
+	- Package name indicates which sub-protocol was used among the NTLM protocols.
+	- Key length indicates the length of the generated session key. This will be 0 if no session key was requested."
+Information,"11/2/2023, 6:34:31.345 PM",Microsoft-Windows-Security-Auditing,4799,Security Group Management,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		GOVBETA$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		BUILTIN\Backup Operators
+	Group Name:		Backup Operators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x2324
+	Process Name:		C:\Windows\System32\VSSVC.exe"
+Information,"11/2/2023, 6:34:31.345 PM",Microsoft-Windows-Security-Auditing,4799,Security Group Management,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		GOVBETA$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		BUILTIN\Administrators
+	Group Name:		Administrators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x2324
+	Process Name:		C:\Windows\System32\VSSVC.exe"
+Information,"11/2/2023, 6:34:31.345 PM",Microsoft-Windows-Security-Auditing,4672,Special Logon,"Special privileges assigned to new logon.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		SYSTEM
+	Account Domain:		NT AUTHORITY
+	Logon ID:		0x3E7
+
+Privileges:		SeAssignPrimaryTokenPrivilege
+			SeTcbPrivilege
+			SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeAuditPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege
+			SeDelegateSessionUserImpersonatePrivilege"
+Information,"11/2/2023, 6:34:31.345 PM",Microsoft-Windows-Security-Auditing,4624,Logon,"An account was successfully logged on.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		GOVBETA$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Logon Information:
+	Logon Type:		5
+	Restricted Admin Mode:	-
+	Virtual Account:		No
+	Elevated Token:		Yes
+
+Impersonation Level:		Impersonation
+
+New Logon:
+	Security ID:		SYSTEM
+	Account Name:		SYSTEM
+	Account Domain:		NT AUTHORITY
+	Logon ID:		0x3E7
+	Linked Logon ID:		0x0
+	Network Account Name:	-
+	Network Account Domain:	-
+	Logon GUID:		{00000000-0000-0000-0000-000000000000}
+
+Process Information:
+	Process ID:		0x298
+	Process Name:		C:\Windows\System32\services.exe
+
+Network Information:
+	Workstation Name:	-
+	Source Network Address:	-
+	Source Port:		-
+
+Detailed Authentication Information:
+	Logon Process:		Advapi  
+	Authentication Package:	Negotiate
+	Transited Services:	-
+	Package Name (NTLM only):	-
+	Key Length:		0
+
+This event is generated when a logon session is created. It is generated on the computer that was accessed.
+
+The subject fields indicate the account on the local system which requested the logon. This is most commonly a service such as the Server service, or a local process such as Winlogon.exe or Services.exe.
+
+The logon type field indicates the kind of logon that occurred. The most common types are 2 (interactive) and 3 (network).
+
+The New Logon fields indicate the account for whom the new logon was created, i.e. the account that was logged on.
+
+The network fields indicate where a remote logon request originated. Workstation name is not always available and may be left blank in some cases.
+
+The impersonation level field indicates the extent to which a process in the logon session can impersonate.
+
+The authentication information fields provide detailed information about this specific logon request.
+	- Logon GUID is a unique identifier that can be used to correlate this event with a KDC event.
+	- Transited services indicate which intermediate services have participated in this logon request.
+	- Package name indicates which sub-protocol was used among the NTLM protocols.
+	- Key length indicates the length of the generated session key. This will be 0 if no session key was requested."
+Information,"11/2/2023, 6:34:31.345 PM",Microsoft-Windows-Security-Auditing,4672,Special Logon,"Special privileges assigned to new logon.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		SYSTEM
+	Account Domain:		NT AUTHORITY
+	Logon ID:		0x3E7
+
+Privileges:		SeAssignPrimaryTokenPrivilege
+			SeTcbPrivilege
+			SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeAuditPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege
+			SeDelegateSessionUserImpersonatePrivilege"
+Information,"11/2/2023, 6:34:31.345 PM",Microsoft-Windows-Security-Auditing,4624,Logon,"An account was successfully logged on.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		GOVBETA$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Logon Information:
+	Logon Type:		5
+	Restricted Admin Mode:	-
+	Virtual Account:		No
+	Elevated Token:		Yes
+
+Impersonation Level:		Impersonation
+
+New Logon:
+	Security ID:		SYSTEM
+	Account Name:		SYSTEM
+	Account Domain:		NT AUTHORITY
+	Logon ID:		0x3E7
+	Linked Logon ID:		0x0
+	Network Account Name:	-
+	Network Account Domain:	-
+	Logon GUID:		{00000000-0000-0000-0000-000000000000}
+
+Process Information:
+	Process ID:		0x298
+	Process Name:		C:\Windows\System32\services.exe
+
+Network Information:
+	Workstation Name:	-
+	Source Network Address:	-
+	Source Port:		-
+
+Detailed Authentication Information:
+	Logon Process:		Advapi  
+	Authentication Package:	Negotiate
+	Transited Services:	-
+	Package Name (NTLM only):	-
+	Key Length:		0
+
+This event is generated when a logon session is created. It is generated on the computer that was accessed.
+
+The subject fields indicate the account on the local system which requested the logon. This is most commonly a service such as the Server service, or a local process such as Winlogon.exe or Services.exe.
+
+The logon type field indicates the kind of logon that occurred. The most common types are 2 (interactive) and 3 (network).
+
+The New Logon fields indicate the account for whom the new logon was created, i.e. the account that was logged on.
+
+The network fields indicate where a remote logon request originated. Workstation name is not always available and may be left blank in some cases.
+
+The impersonation level field indicates the extent to which a process in the logon session can impersonate.
+
+The authentication information fields provide detailed information about this specific logon request.
+	- Logon GUID is a unique identifier that can be used to correlate this event with a KDC event.
+	- Transited services indicate which intermediate services have participated in this logon request.
+	- Package name indicates which sub-protocol was used among the NTLM protocols.
+	- Key length indicates the length of the generated session key. This will be 0 if no session key was requested."
+Information,"11/2/2023, 6:34:31.345 PM",Microsoft-Windows-Security-Auditing,4672,Special Logon,"Special privileges assigned to new logon.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		SYSTEM
+	Account Domain:		NT AUTHORITY
+	Logon ID:		0x3E7
+
+Privileges:		SeAssignPrimaryTokenPrivilege
+			SeTcbPrivilege
+			SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeAuditPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege
+			SeDelegateSessionUserImpersonatePrivilege"
+Information,"11/2/2023, 6:34:31.345 PM",Microsoft-Windows-Security-Auditing,4624,Logon,"An account was successfully logged on.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		GOVBETA$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Logon Information:
+	Logon Type:		5
+	Restricted Admin Mode:	-
+	Virtual Account:		No
+	Elevated Token:		Yes
+
+Impersonation Level:		Impersonation
+
+New Logon:
+	Security ID:		SYSTEM
+	Account Name:		SYSTEM
+	Account Domain:		NT AUTHORITY
+	Logon ID:		0x3E7
+	Linked Logon ID:		0x0
+	Network Account Name:	-
+	Network Account Domain:	-
+	Logon GUID:		{00000000-0000-0000-0000-000000000000}
+
+Process Information:
+	Process ID:		0x298
+	Process Name:		C:\Windows\System32\services.exe
+
+Network Information:
+	Workstation Name:	-
+	Source Network Address:	-
+	Source Port:		-
+
+Detailed Authentication Information:
+	Logon Process:		Advapi  
+	Authentication Package:	Negotiate
+	Transited Services:	-
+	Package Name (NTLM only):	-
+	Key Length:		0
+
+This event is generated when a logon session is created. It is generated on the computer that was accessed.
+
+The subject fields indicate the account on the local system which requested the logon. This is most commonly a service such as the Server service, or a local process such as Winlogon.exe or Services.exe.
+
+The logon type field indicates the kind of logon that occurred. The most common types are 2 (interactive) and 3 (network).
+
+The New Logon fields indicate the account for whom the new logon was created, i.e. the account that was logged on.
+
+The network fields indicate where a remote logon request originated. Workstation name is not always available and may be left blank in some cases.
+
+The impersonation level field indicates the extent to which a process in the logon session can impersonate.
+
+The authentication information fields provide detailed information about this specific logon request.
+	- Logon GUID is a unique identifier that can be used to correlate this event with a KDC event.
+	- Transited services indicate which intermediate services have participated in this logon request.
+	- Package name indicates which sub-protocol was used among the NTLM protocols.
+	- Key length indicates the length of the generated session key. This will be 0 if no session key was requested."
+Information,"11/2/2023, 6:34:31.345 PM",Microsoft-Windows-Security-Auditing,4634,Logoff,"An account was logged off.
+
+Subject:
+	Security ID:		S-1-5-21-3089243881-3525850343-252262830-1003
+	Account Name:		jonathan
+	Account Domain:		GOVBETA
+	Logon ID:		0x39770C
+
+Logon Type:			4
+
+This event is generated when a logon session is destroyed. It may be positively correlated with a logon event using the Logon ID value. Logon IDs are only unique between reboots on the same computer."
